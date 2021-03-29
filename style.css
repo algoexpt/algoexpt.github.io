@@ -1,0 +1,29 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 10px;
+}
+
+h1{
+    background-color:skyblue;
+    padding:20px;
+    
+}
+
+ol.toc{
+    background-color: ;
+}
+
+ol.toc > li{
+    display: flex;
+    padding: 10px;
+}
+
+ol.toc > li > div {
+    /* flex:10%; */
+    padding: 0 10px 0 10px;
+}
+
+div.article {
+    width: 700px;
+    margin-left: 20%;
+}
