@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+
 body{
-    font-family:Cambria, Georgia, Cochin, Times, 'Times New Roman', serif;
+    font-family: 'Roboto Slab', Cambria, Georgia, Cochin, Times, 'Times New Roman', serif;
 }
 
 div.banner{
@@ -24,37 +27,34 @@ div.banner > span.nav {
     padding: 10px;
     vertical-align:middle;
 }
-div.banner > span.nav > a{
+a{
     color: skyblue;
     text-decoration: none;
     border-bottom: 1px solid skyblue;
 }
+
+a:hover{
+    background-color: skyblue;
+    color: white;
+}
+
 ol.toc{
     margin-left:20%;    
 }
 
 ol.toc > li{
     display: flex;
+    padding:10px;
 }
 
 ol.toc>li>div.date {
-    padding: 10px;    
     color: lightgray;
+    margin-right: 10px;
 }
 
-ol.toc>li>div.link{
+/* ol.toc>li>div.link{
     padding: 10px;
-    border-bottom: 1px dashed skyblue;
-}
-ol.toc>li>div.link>a{
-    text-decoration: none;
-    color: skyblue;
-}
-ol.toc>li>div.link>a:hover{
-    text-decoration: none;
-    background-color: skyblue;
-    color: white;
-}
+} */
 
 div.article  {
     column-width: 400px;
