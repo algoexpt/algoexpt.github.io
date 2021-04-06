@@ -1,11 +1,14 @@
 An experiment in solving VRPTW using ORTools and DEAP
-This should be Readme.MD, and I could link to this README.MD from my blog.
-NAAH. I should stick to my blog, link to my blog from the readme. And on the readme I should put technical information, etc.
 
 # Goal
 In a previous essay I wrote
-> "we haven’t yet found a good alternative to traditional analytical techniques like mathematical programming when rules are clear and data input is of good quality" ...
 > "search spaces have grown so big that we might need some ML to narrow down potential areas within which to search for solutions to improve performance."
+
+Every OR method that's useful tries to reduce search space without sacrificing quality, but when the search space is huge, figuring out *how* to reduce search spaces is also expensive. 
+
+In this context I was really attracted to the idea of genetic algorithms. It promises to evolve into good solutions without my having to do extensive modeling.
+
+
 ----
 1. My goal is to try out DEAP and ORtools on something that wasn't a toy problem. 
 2. Put this in the context of ML - randomness is a good place to explore learning
