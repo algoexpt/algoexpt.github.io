@@ -42,14 +42,14 @@ params:
   showtoc: false
   tocopen: false
 
-    #assets:
-    #  # disableHLJS: true # to disable highlight.js
-    #  # disableFingerprinting: true
-    #  favicon: "<link / abs url>"
-    #  favicon16x16: "<link / abs url>"
-    #  favicon32x32: "<link / abs url>"
-    #  apple_touch_icon: "<link / abs url>"
-    #  safari_pinned_tab: "<link / abs url>"
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "/favicon.ico"
+      # favicon16x16: "static/favicon.ico"
+      # favicon32x32: "static/favicon.ico"
+    apple_touch_icon: "static/favicon.ico"
+    # safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Random Walks"
@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hello! 🚶🏾"
-    Content: This is the personal blog of Ajay Arn. All opinions are my own, and not shared by past, present, or future employers.
+    Content: Welcome to the personal blog of Ajay Arn.
 
   socialIcons:
     - name: twitter
