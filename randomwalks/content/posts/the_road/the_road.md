@@ -3,6 +3,7 @@ title: "Cormac McCarthy's \"The Road\""
 date: 2021-06-25T16:48:33+09:00
 draft: false
 description: A father shows what it means to have patience	
+tags: ["books"]
 ---
 ![The Road](the-road-cormac-mccarthy1-1224859981.jpg)
 

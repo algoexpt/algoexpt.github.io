@@ -2,6 +2,7 @@
 title: "Using Evolutionary Algorithms for the CVRP"
 date: 2021-05-26T16:48:33+09:00
 draft: false
+tags: ["OR"]
 description: I use off-the-shelf tools to see how far I can go
 ---
 

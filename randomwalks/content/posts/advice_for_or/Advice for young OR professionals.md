@@ -3,6 +3,7 @@ title: "Advice for young OR professionals"
 date: 2021-05-15T16:48:33+09:00
 draft: false
 description: Unasked for advice freely given to the internet
+tags: ["career"]
 ---
 
 ## Introduction

@@ -1,7 +1,7 @@
 baseURL: "https://algoexpt.github.io/"
 title: Random Walks
 paginate: 5
-theme: PaperMod
+theme: mini
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hello! 🚶🏾"
-    Content: This is the personal blog of Ajay Arn. All opinions are my own, and not shared by past, present, or future employers.
+    Title: "🚶🏾Hello!"
+    Content: Personal blog of Ajay Arn
 
   socialIcons:
     - name: twitter

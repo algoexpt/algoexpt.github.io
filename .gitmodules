@@ -5,3 +5,12 @@
 [submodule "randomwalks/themes/PaperMod"]
 	path = randomwalks/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/PaperModX"]
+	path = themes/PaperModX
+	url = https://github.com/reorx/hugo-PaperModX.git
+[submodule "randomwalks/themes/PaperModX"]
+	path = randomwalks/themes/PaperModX
+	url = https://github.com/reorx/hugo-PaperModX.git
+[submodule "randomwalks/themes/mini"]
+	path = randomwalks/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
