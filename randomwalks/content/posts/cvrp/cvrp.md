@@ -29,7 +29,7 @@ The problem I picked was one I was familiar with: the [Solomon benchmarks](https
 One last thing I did was to buy a desktop (AMD Ryzen 4750G with 8 cores at 3.6-4.4 GHz), as my 2013 MacBook Air with 1.3 GHz processor was not going to cut it. 
 
 
-![My new computer running at full tilt](Screenshot_2021-03-30_232232.png)
+![My new computer running at full tilt](Screenshot_2021-03-30_232232.png "My new computer running at full tilt")
 
 
 ## Results
