@@ -61,6 +61,7 @@
 
 {{- end }}
 
+
 /* SCSS Variables loaded from calligraphy/data/styles.toml */
 
 {{- range $key, $value := .Site.Data.styles }}
@@ -87,3 +88,4 @@ ${{ $key }}: {{ $value }};
 @import "components/__components-dir";
 @import "layouts";
 @import "shame";
+

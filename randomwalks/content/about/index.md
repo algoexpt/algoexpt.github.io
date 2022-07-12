@@ -1,25 +1,25 @@
 +++
-title = "About Random Walks"
+title = "Hi, I'm Ajay."
 layout = "page"
 +++
 
-**Ran·dom·Walks** n. <br>
-	*a random process of steps on some mathematical space*
-{.text-align-right}
 
 
-This is the blog of Ajay Arn.
+
+This is where I write about my thoughts and my [experience](http://www.linkedin.com/in/ajayarn).
+
+I currently work on Operations Research problems at Bain and Company. Previously, I was an OR / Data Scientist at Coupang, and a lead OR scientist at Quintiq.
+
+_None of the opinions shared on this site are shared or endorsed by any of my employers, past or present._
 
 ### Why?
-I suppose I should have a reason for this blog to exist... but there isn't one. As someone once said, "I was so busy seeing if I could, I never stopped to think if I should". 
+I was so busy seeing if I could, I never stopped to think if I should. 
 
-But it serves a purpose. It serves as a repository of my opinions that I am not too ashamed to share. Not all of them are going to be acceptable by all. Yet here they are.
+I am inspired by luminaries such as [Paul Graham](http://paulgraham.com/) and [Joel Spolsky](https://www.joelonsoftware.com/). I might never reach the heights of clarity and vision they have, but it doesn't hurt to try.
 
-In this I am inspired by luminaries such as [Paul Graham](http://paulgraham.com/) and [Joel Spolsky](https://www.joelonsoftware.com/). I might never reach the heights of clarity and vision they have, but it doesn't hurt to try.
 
-### Randomness
 
-Vedanta philosophy says that we are but actors on a stage. Thoughts and events occur out of our control. Yet we constantly struggle and fight to control our lives.
+### Apropos of nothing
 
 >न त्वं देहो न ते देहो भोक्ता कर्ता न वा भवान् ।  
 > चिद्रूपोऽसि सदा साक्षी निरपेक्षः सुखं चर ॥ ४ ॥
@@ -29,5 +29,4 @@ Vedanta philosophy says that we are but actors on a stage. Thoughts and events o
 [Ashtavakra Gita verse 15.4](https://www.wisdomlib.org/hinduism/book/ashtavakra-gita-sanskrit/d/doc345938.html)
 {.text-align-right}
 
-Random walks is a reminder to me that I am *not* the actor, despite the strong and repeated illusion that I am. 
 
