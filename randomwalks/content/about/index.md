@@ -30,3 +30,10 @@ I am inspired by luminaries such as [Paul Graham](http://paulgraham.com/) and [J
 {.text-align-right}
 
 
+### Contact
+You can reach me at `algoexpt @ gmail . com`
+
+(Please include the words "Random walks" in the subject so I know it's not spam)
+
+
+
