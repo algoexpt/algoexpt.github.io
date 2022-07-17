@@ -17,13 +17,3 @@
 [submodule "randomwalks/themes/calligraphy"]
 	path = randomwalks/themes/calligraphy
 	url = https://github.com/pacollins/calligraphy.git
-[submodule "randomwalks-ii/themes/calligraphy"]
-	path = randomwalks-ii/themes/calligraphy
-	url = https://github.com/pacollins/calligraphy.git
-[submodule "exampleSite/themes/calligraphy"]
-	path = exampleSite/themes/calligraphy
-	url = https://github.com/pacollins/calligraphy.git
-[submodule "exampleSite/themes/calligraphy-fix"]
-	path = exampleSite/themes/calligraphy-fix
-	url = https://github.com/pacollins/calligraphy.git
-	branch = fix/font-import
