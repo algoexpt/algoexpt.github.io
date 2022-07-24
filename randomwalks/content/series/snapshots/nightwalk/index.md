@@ -16,7 +16,7 @@ Seoul is [notorious](http://www.koreaherald.com/view.php?ud=20210309000162) for 
 
 ![A quiet cul-de-sac](20220721_231448.jpg)
 
-The place I live in has many "villas". A Korean villa is the less expensive substitute for a high-rise apartment. Most don't have elevators, but offer better value for money per square foot of living space. These houses are villas. They are usually quieter neighborhoods.
+The place I live in has many "villas", less expensive alternatives for a high-rise apartments. Many don't have elevators. They offer better value for money per square foot of living space. They are usually quieter neighborhoods, like this one.
 
 
 ![24H ice creams!](20220721_231535.jpg)
