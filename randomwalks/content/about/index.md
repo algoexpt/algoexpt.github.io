@@ -10,7 +10,8 @@ This is where I write about my thoughts and my [experience](http://www.linkedin.
 
 I currently work on Operations Research problems at Bain and Company. Previously, I was an OR / Data Scientist at Coupang, and a lead OR scientist at Quintiq.
 
-_None of the opinions shared on this site are shared or endorsed by any of my employers, past or present._
+Disclaimer
+:  All opinions on this site are my own and are not shared or endorsed by any of my employers, past or present.
 
 ### Why?
 I was so busy seeing if I could, I never stopped to think if I should. 

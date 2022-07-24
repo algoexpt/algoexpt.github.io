@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
 {{- else }}
 @font-face {
-	font-family: 'Playfair Display';
+font-family: 'Playfair Display';
 	src: url('/fonts/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');
   font-style: normal;
   font-weight: 400 900;
@@ -60,8 +60,6 @@
 }
 
 {{- end }}
-
-
 /* SCSS Variables loaded from calligraphy/data/styles.toml */
 
 {{- range $key, $value := .Site.Data.styles }}
@@ -88,4 +86,3 @@ ${{ $key }}: {{ $value }};
 @import "components/__components-dir";
 @import "layouts";
 @import "shame";
-

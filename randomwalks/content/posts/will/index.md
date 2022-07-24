@@ -15,10 +15,8 @@ Will meets this decision with stupefaction:
 
 Will and his brother worked on the wall every day, mixing concrete and carrying the buckets. They worked weekends, holidays, vacations.
 
-> There were so many times I remember looking at that hole, totally discouraged. I couldn’t see how this was ever going to end. The dimensions became unfathomably large in my mind. It seemed like we were building the Great Wall of West Philly—billions of red bricks stretching infinitely into some distant nowhere. I was certain that I would grow old and die still mixing concrete and carrying those buckets. I just knew it.
-> 
-> ...
-> 
+> There were so many times I remember looking at that hole, totally discouraged. I couldn’t see how this was ever going to end. The dimensions became unfathomably large in my mind. It seemed like we were building the Great Wall of West Philly—billions of red bricks stretching infinitely into some distant nowhere. I was certain that I would grow old and die still mixing concrete and carrying those buckets. I just knew it. 
+
 > One day, Harry and I were in a particularly stank mood. We were dragging our feet and grumbling, “impossible this” and “ridiculous that.”
 > 
 > “Why’d we have to build a wall for, anyway? This is impossible. It’s never gonna get done.”
@@ -26,9 +24,7 @@ Will and his brother worked on the wall every day, mixing concrete and carrying 
 > Daddio overheard us, threw down his tools, and marched over to where we were yapping. He snatched a brick out of my hand and held it up in front of us.
 > 
 > “Stop thinking about the damn wall!” he said. “There is no wall. There are only bricks. Your job is to lay __this brick__ perfectly. Then move on to the next brick. Then lay __that brick__ perfectly. Then the next one. Don’t be worrying about no wall. Your only concern is one brick.”
-> 
-> ...
-> 
+
 > As the weeks passed, the bricks mounted, and the hole got just a little bit smaller. I started to see that the difference between a task that feels impossible and a task that feels doable is merely a matter of perspective.
 
 Will credits this lesson for his success.

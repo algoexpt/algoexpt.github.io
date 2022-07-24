@@ -38,6 +38,12 @@ enableEmoji = true
  url = "/series/"
  weight = 20
 
+# [[menu.main]]
+#  identifier = "snaps"
+#  name = "Snapshots"
+#  url = "/snaps/"
+#  weight = 10
+
 [[menu.main]]
   identifier = "tags"
   name = "Tags"
@@ -60,6 +66,7 @@ enableEmoji = true
   series = "series"
   category = "categories"
   tag = "tags"
+  snaps = "snaps"
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -79,3 +86,11 @@ enableEmoji = true
 
 [privacy.youtube]
   privacyEnhanced = true
+
+
+################################################################################
+######         For RSS feed                                                #####
+################################################################################
+
+[outputs]
+  home = ["HTML", "RSS"]
