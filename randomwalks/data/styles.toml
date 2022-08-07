@@ -2,39 +2,18 @@
 transition-base = ".1s ease-in-out"
 #--------------------------------------------
 # fonts
-# font-header = "'Bebas Neue', sans-serif"
+
+# 'Bebas Neue', ...
+
 font-header = "'Gentium Book Plus', sans-serif"
-# font-body = "'Gentium Book Plus', sans-serif"
-# font-body = "'Gentium Book Plus', sans-serif"
+font-body = "'Gentium Book Plus', sans-serif"
+
 
 #--------------------------------------------
 # "fe8019"
-color-accent = "#d79921" #"#fe8019"
-color-accent-contrast = "#fabd2f"
-color-primary = "#689d6a"
-color-primary-contrast = "#ebdbb2"
-color-block = "hsl(0, 0%, 100%)"
-color-button = "hsl(220, 16%, 22%)"
-color-button-contrast = "hsl(0, 0%, 100%)"
-
-dark-color = "#fbf1c7"
-dark-background-color = "#1d2021"
-dark-background-color-card = "#282828"
-dark-color-alt = "#665c54"
-dark-background-color-alt = "#3c3836"
-dark-background-color-block = "#32302f"
-dark-background-color-block-alt = "#3c3836"
-dark-border-color = "#f2e5bc"
-dark-color-link = "hsl(203, 82%, 65%)"
-
-light-color = "#1d2021"
-light-background-color = "#fbf1c7"
-light-background-color-card = "#d5c4a1"
-light-color-alt = "#584945"
-light-background-color-alt = "#ebdbb2"
-light-background-color-block = "#7c6f64"
-light-background-color-block-alt = "#a89984"
-light-color-link = "#d65d0e"
-light-border-color = "#7c6f64"
+color-accent = "#d79921"
+color-accent-contrast = "#a89984"
+color-primary = "#d79921"
+color-primary-contrast = "#584945"
 
 #--------
