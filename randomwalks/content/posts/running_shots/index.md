@@ -84,10 +84,9 @@ On the right is a short track for running, beside a soccer field, which is besid
 
 ![August 3rd](20220803_221100.jpg)
 
-The [World Cup Bridge](https://map.naver.com/v5/entry/place/18809568?c=14124662.5258485,4515546.5956579,14,0,0,0,dh&p=Vr5FQDykm7oK06RLXYgohA,15.87,18.63,80,Float) lights up at night. There's a lot of light and color at night in Korea, and I love it. All these facilities, the track, the landscaping, the lights, are maintained by taxpayer money and I don't grudge paying it at all. 
+The [World Cup Bridge](https://map.naver.com/v5/entry/place/18809568?c=14124662.5258485,4515546.5956579,14,0,0,0,dh&p=Vr5FQDykm7oK06RLXYgohA,15.87,18.63,80,Float) lights up at night. There's a lot of light and color at night in Seoul, and I love it.  
 
 ---
 
 I'll be back with more shots from my running in November. Until then, keep moving forward.
-
 
