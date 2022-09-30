@@ -19,17 +19,15 @@ actually live by.
 
 ---
 
-Why did I bring up the self-help stuff? Because I found myself this
-morning installing [Zettlr](https://www.zettlr.com/#), because there are
-stories of people saying they "changed their life around" using the
-zettelkasten method (here's an
-[example](https://news.ycombinator.com/item?id=23386630)), wouldn't you
-know? Apparently it's the way to become 20% smarter and write amazing
-books.
+I found myself this morning installing [Zettlr](https://www.zettlr.com/#), 
+because there are stories of people saying they "changed their life
+around" using the zettelkasten method (here's an
+[example](https://news.ycombinator.com/item?id=23386630)). Apparently it's
+the way to become 20% smarter and write amazing books... and overall
+becoming a better person.
 
-I am sure it is an amazing method, please don't pay any attention to my
-cynical tone. If I am cynical it's because I don't believe _I am the kind
-of person who's going to profit from this method_, yet. 
+Please don't pay any attention to my cynical tone. It's because I can't
+get any value from it myself. Yet. 
 
 Why do I say this?
 
@@ -39,18 +37,20 @@ didn't have it. He is understandably going to be excited. "This tool", he
 says, "will allow you to make a four poster bed like never before and in
 just 3 days!".
 
-Then a poor schmuck like myself will come around with no talent in
-carpentry but plenty of ambition and desire, and I'll think to myself:
-_"hey, the reason I am not a master carpenter is because I don't have this
-tool yet. But what do you know - it's only $30, so I'm going to buy it and
-look at me go!"_
+Then a poor schmuck like myself  comes around with no talent in carpentry
+but plenty of ambition and desire, and I think to myself: _"hey, the
+reason I am not a master carpenter is because I don't have this tool yet.
+But what do you know - it's only $30, so I'm going to buy it and look at
+me go!"_
 
 So I buy the tool but I still can't make anything better than the dumb
-chair I used to make before  I had the hammer. Eh? Where's the 4 poster
-bed? Where's the world famous recognition of my talent?
+chair I used to make before  I had the hammer. 
 
-Time goes by, the hammer rusts, and in my old age I wonder if there wasn't
-another tool that would have made me the best carpenter in the world.
+Eh? Where's the 4 poster bed? Where's the world famous recognition of my
+talent?
+
+Time goes by, the hammer rusts, and in my old age I regret, "if only I had
+_this other tool_, I would have been the best carpenter in the world.
 
 You get my point. It's not the tool. It's the hand that wields, the brain
 that thinks, the person who uses the tool.
