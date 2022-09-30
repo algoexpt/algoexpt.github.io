@@ -38,7 +38,7 @@ says, "will allow you to make a four poster bed like never before and in
 just 3 days!".
 
 Then a poor schmuck like myself  comes around with no talent in carpentry
-but plenty of ambition and desire, and I think to myself: _"hey, the
+but plenty of ambition and desire, and I think to myself: _"Hey, the
 reason I am not a master carpenter is because I don't have this tool yet.
 But what do you know - it's only $30, so I'm going to buy it and look at
 me go!"_
@@ -49,8 +49,8 @@ chair I used to make before  I had the hammer.
 Eh? Where's the 4 poster bed? Where's the world famous recognition of my
 talent?
 
-Time goes by, the hammer rusts, and in my old age I regret, "if only I had
-_this other tool_, I would have been the best carpenter in the world.
+Time goes by, the hammer rusts, and in my old age I regret, "If only I had
+_this other tool_, I would have been the best carpenter in the world."
 
 You get my point. It's not the tool. It's the hand that wields, the brain
 that thinks, the person who uses the tool.
