@@ -1,0 +1,60 @@
+@charset 'utf-8';
+
+{{- if .Site.Params.cdn }}
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+{{- else }}
+@font-face {
+	font-family: 'Playfair Display';
+	src: url('/fonts/PlayfairDisplay-VariableFont_wght.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400 900;
+}
+
+@font-face {
+	font-family: 'Playfair Display';
+	src: url('/fonts/PlayfairDisplay-Italic-VariableFont_wght.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 400 900;
+}
+
+@font-face {
+	font-family: 'Source Sans 3';
+	src: url('/fonts/SourceSans3-VariableFont_wght.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 200 900;
+}
+
+@font-face {
+	font-family: 'Source Sans 3';
+	src: url('/fonts/SourceSans3-Italic-VariableFont_wght.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 200 900;
+}
+{{- end }}
+
+/* SCSS Variables loaded from calligraphy/data/styles.toml */
+
+{{- range $key, $value := .Site.Data.styles }}
+${{ $key }}: {{ $value }};
+{{- end }}
+
+{{- range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+{{- range $taxonomy }}
+{{- if or .Page.Params.backgroundColor .Page.Params.textColor }}
+.card, .card-banner {
+  &[data-taxonomy="{{ print .Page.Section "-" .Page.Title | urlize }}"] {
+    background-color: {{ .Page.Params.backgroundColor | default "var(--color-primary)" }};
+    color: {{ .Page.Params.textColor | default "var(--color-primary-contrast)" }};
+  }
+}
+{{- end }}
+{{- end }}
+{{- end }}
+
+@import "vendor/__vendor-dir";
+@import "mixins";
+@import "typography";
+@import "utility";
+@import "components/__components-dir";
+@import "layouts";
+@import "shame";
