@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random Walks</title>
+    <link>https://algoexpt.github.io/</link>
+    <description>Recent content on Random Walks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2022</copyright>
+    <lastBuildDate>Thu, 29 Sep 2022 15:16:24 +0900</lastBuildDate><atom:link href="https://algoexpt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self Help</title>
+      <link>https://algoexpt.github.io/posts/self-help/</link>
+      <pubDate>Thu, 29 Sep 2022 15:16:24 +0900</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/self-help/</guid>
+      <description>It took a long time for me to realize that I couldn&amp;rsquo;t improve myself by reading self help books. My insecurities made me feel that others knew more than me, if only I could be like them or get that one piece of advice that would fill the void in my soul&amp;hellip;
+But it doesn&amp;rsquo;t work like that. Nothing external can improve our lives. Not advice, not money, not even the love of someone.</description>
+    </item>
+    
+    <item>
+      <title>Running snapshots - Aug 2022</title>
+      <link>https://algoexpt.github.io/posts/running_shots/</link>
+      <pubDate>Sat, 06 Aug 2022 12:31:17 +0900</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/running_shots/</guid>
+      <description>For a while I was convinced pushing weights with my noodle-like arms in the gym was the best way to get fit, but I never got into the groove of the gym. It never graduated from being a painful chore to something I enjoyed doing.
+But running was different - specifically the long form. The mind was peaceful while I was pumping my legs and I was in the moment. I always run outdoors, where the wind and the scenery and the people provide variety.</description>
+    </item>
+    
+    <item>
+      <title>Walking at 11 pm</title>
+      <link>https://algoexpt.github.io/posts/nightwalk/</link>
+      <pubDate>Sat, 23 Jul 2022 21:28:43 +0900</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/nightwalk/</guid>
+      <description>While Seoul knows no sleep, my neighborhood grows quiet at night. There aren&amp;rsquo;t many people out and about. The absence of sounds of traffic enhances the peaceful feeling.
+Going home after a long day at work Seoul is notorious for long work hours. Then the Government announced last year that work hours per week were to be capped at 52 hours per week.
+A quiet cul-de-sac The place I live in has many &amp;ldquo;villas&amp;rdquo;, less expensive alternatives for a high-rise apartments.</description>
+    </item>
+    
+    <item>
+      <title>Conditional Happiness</title>
+      <link>https://algoexpt.github.io/posts/conditional_happiness/</link>
+      <pubDate>Sun, 17 Jul 2022 17:28:43 +0900</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/conditional_happiness/</guid>
+      <description>Swami Sarvapriyananda, my favorite teacher of philosophy, talks about why happiness conditioned on worldly events, possessions or people, is inherently sorrowful and not true happiness.
+The full talk is about 3 mantras in the Katha Upanishad, where Nachiketa, a little boy, is given by his annoyed father to the Lord of Death and visits him. Yamaraja, the Lord of Death, is not home when Nachiketa visits, so he grants three boons to make up for his lapse.</description>
+    </item>
+    
+    <item>
+      <title>Mass Goodbye Emails</title>
+      <link>https://algoexpt.github.io/posts/massgoodbye/</link>
+      <pubDate>Thu, 07 Jul 2022 01:49:43 +0900</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/massgoodbye/</guid>
+      <description>This post originally appeared on LinkedIn. I have edited the text for readability
+It&amp;rsquo;s common for employees who are leaving to send out a &amp;ldquo;Thank you and good bye&amp;rdquo; mail enmasse. Usually, this happens at Friday at 5:45 PM as everyone is winding down for the weekend.
+Please don&amp;rsquo;t do this.
+It&amp;rsquo;s a low effort call for attention. You feel on top of the world, your stress has evaporated, and you want to shout out your liberation from the rooftops.</description>
+    </item>
+    
+    <item>
+      <title>The Wall</title>
+      <link>https://algoexpt.github.io/posts/will/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/will/</guid>
+      <description>Will Smith begins his biography, Will, with the story of his father demolishing a 12x20 feet wall. He asks Will, 11, and his younger brother Harry to rebuild it.
+Will meets this decision with stupefaction:
+I remember looking at that gaping hole in excruciating disbelief. I was utterly certain that there would never be a wall there ever again.
+Will and his brother worked on the wall every day, mixing concrete and carrying the buckets.</description>
+    </item>
+    
+    <item>
+      <title>Cormac McCarthy&#39;s &#34;The Road&#34;</title>
+      <link>https://algoexpt.github.io/posts/the_road/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/the_road/</guid>
+      <description>The Road In &amp;ldquo;The Road&amp;rdquo;, a father and son are making their way towards the sea in a world in which an apocalyptic event has killed most living things.
+It&amp;rsquo;s winter, and it&amp;rsquo;s snowing. Their clothes and shoes are threadbare. They sleep under tarpaulin on the hard ground. During their walk, they manage to find some gasoline, which is useful to build fires, to cook food, to keep warm.</description>
+    </item>
+    
+    <item>
+      <title>Using Evolutionary Algorithms for the CVRP</title>
+      <link>https://algoexpt.github.io/posts/cvrp/cvrp/</link>
+      <pubDate>Wed, 26 May 2021 16:48:33 +0900</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/cvrp/cvrp/</guid>
+      <description>Context Tweaking the search heuristic based on benchmark data is a necessary evil when building and testing an OR model intended for production. But this approach has a problem: we are able to beat benchmarks but are not able to consistently get acceptable results in production, where the input data can vary for each run. One solution is to train the OR model in more benchmarks, but it is expensive for businesses to create the right benchmarks and to verify results when there&amp;rsquo;s a lot of variation possible in the data, or they are not sure of what variation can potentially happen, or the amount of work that goes into building the benchmark is high.</description>
+    </item>
+    
+    <item>
+      <title>Advice for young OR professionals</title>
+      <link>https://algoexpt.github.io/posts/advice_for_or/advice-for-young-or-professionals/</link>
+      <pubDate>Sat, 15 May 2021 16:48:33 +0900</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/advice_for_or/advice-for-young-or-professionals/</guid>
+      <description>Introduction I love mentoring young people, but I don’t get many chances to do so. In the last few years, some of my younger colleagues have asked me questions that I’ve not answered well.
+I’ve had some time recently to think about what I would say if I had the opportunity to talk to them again. I’ve written down some of these thoughts. Like most advice, it is unsolicited, so what could be better than to put it out here and let anyone who can get value out of it do so?</description>
+    </item>
+    
+    <item>
+      <title>Hi, I&#39;m Ajay.</title>
+      <link>https://algoexpt.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoexpt.github.io/about/</guid>
+      <description>This is where I write about my thoughts and my experience.
+I currently work on Operations Research problems at Bain and Company. Previously, I was an OR / Data Scientist at Coupang, and a lead OR scientist at Quintiq.
+Disclaimer All opinions on this site are my own and are not shared or endorsed by any of my employers, past or present. Why? I was so busy seeing if I could, I never stopped to think if I should.</description>
+    </item>
+    
+  </channel>
+</rss>

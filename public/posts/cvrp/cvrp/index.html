@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <title>Using Evolutionary Algorithms for the CVRP | Random Walks</title>
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta name="description" content="I use off-the-shelf tools to see how far I can go">
+  <meta name="generator" content="Hugo 0.104.1" />
+  <meta name="robots" content="index, follow">
+
+  
+<link rel="stylesheet" href="/css/libraries.min.71ed9843bd9de5b970d18e88108ced41f778369861ec5e39a971f94435ada25f.css" crossorigin="anonymous" integrity="sha256-ce2YQ72d5blw0Y6IEIztQfd4Nphh7F45qXH5RDWtol8=">
+
+  
+<link rel="stylesheet" href="/scss/main.min.c152e82e1cdd5180f4d6b930c8c1bd6e510f03ae6de8bb3e47a7464c62f7b31d.css" crossorigin="anonymous" integrity="sha256-wVLoLhzdUYD01rkwyMG9blEPA65t6Ls&#43;R6dGTGL3sx0=">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="https://algoexpt.github.io/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://algoexpt.github.io/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://algoexpt.github.io/favicon/favicon-16x16.png">
+  <link rel="manifest" href="https://algoexpt.github.io/favicon/site.webmanifest">
+  <link rel="mask-icon" href="https://algoexpt.github.io/favicon/safari-pinned-tab.svg" color="#00aba9">
+  <link rel="shortcut icon" href="https://algoexpt.github.io/favicon/favicon.ico">
+  <meta name="msapplication-TileColor" content="#00aba9">
+  <meta name="msapplication-config" content="https://algoexpt.github.io/favicon/browserconfig.xml">
+  <meta name="theme-color" content="#00aba9"><meta name="keywords" content="OR">
+  <meta name="og:title" content="Using Evolutionary Algorithms for the CVRP">
+  <meta name="og:description" content="I use off-the-shelf tools to see how far I can go">
+  <meta name="og:type" content="article">
+  <meta name="og:site_name" content="Random Walks">
+  <meta name="og:url" content="https://algoexpt.github.io/posts/cvrp/cvrp/">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="og:image" content="https://algoexpt.github.io/img/screenshot_huea78ebc997e67ec44ce45d53f6e95542_538717_1200x630_fit_q75_box.jpg">
+  <meta name="twitter:image" content="https://algoexpt.github.io/img/screenshot_huea78ebc997e67ec44ce45d53f6e95542_538717_6f7a425958d118b2169df5f15d64961e.jpg">
+  
+	
+</head>
+
+<body>
+
+  <script type="text/javascript">
+    
+    function detectTheme() {
+      var theme = "light";
+
+      if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+        var theme = "dark";
+      }
+
+      if (localStorage.getItem("theme")) {
+        var theme = localStorage.getItem("theme");
+      }
+
+      if (theme == "dark") {
+        document.documentElement.setAttribute("data-theme", "dark");
+      }
+    }
+
+    detectTheme();
+  </script>
+
+  
+    <header id="site-header" class="l-compact">
+  <nav class="l-container_site">
+    <div class="branding">
+        <h1 class="branding-title">
+          <a href="/" accesskey="h" title="Home (Alt + H)">Random Walks</a>
+        </h1>
+      <p class="branding-tagline">Brownian motion through life</p>
+    </div>
+    <label class="toggle" accesskey="t" title="Change Theme (Alt + T)">
+      <input id="theme-toggle" type="checkbox"></input>
+      <span class="theme-button"></span>
+    </label>
+    <div id="site-nav">
+      <label class="toggle" accesskey="n" title="Open Site Navigation (Alt + N)">
+        <input id="nav-toggle" type="checkbox"></input>
+        <span class="nav-button"></span>
+      </label>
+      <ul class="menu">
+        <li class="menu-item">
+          <a href="/about/">About</a>
+        </li>
+        <li class="menu-item">
+          <a href="/series/">Series</a>
+        </li>
+        <li class="menu-item">
+          <a href="/tags/">Tags</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <progress id="reading-progress" max="100" value="0" ></progress>
+</header>
+
+  
+
+  <main id="site-main" role="main">
+
+    
+<article class="l-container_content card">
+  <header class="card-header">
+  
+  <div class="card-meta">
+    <span><time datetime="2021-05-26 16:48:33 &#43;0900 KST">May 26 2021</time> · 10 min read</span>
+  </div>
+  <h1 class="card-title"><a href="/posts/cvrp/cvrp/">Using Evolutionary Algorithms for the CVRP</a></h1>
+  
+
+  
+
+</header>
+
+  <section class="card-content">
+    <h2 id="context">Context</h2>
+<p>Tweaking the search heuristic based on benchmark data is a necessary evil when building and testing an OR model intended for production. But this approach has a problem: we are able to beat benchmarks but are not able to consistently get acceptable results in production, where the input data can vary for each run. One solution is to train the OR model in more benchmarks, but it is expensive for businesses to create the right benchmarks and to verify results when there&rsquo;s a lot of variation possible in the data, or they are not sure of what variation can potentially happen, or the amount of work that goes into building the benchmark is high.</p>
+<p>Does a solution exist that can adapt to any data input as long as the fundamentals it is built on are sound?</p>
+<p>Evolutionary algorithms (EAs) — when they work well —  may be an answer. We decide the chromosome, mating and mutation methods, and let the EA &ldquo;evolve&rdquo; into a good solution. Unlike procedural heuristics (&ldquo;if <code>a</code> happens, do <code>b</code>&rdquo;), we have no control over how the EA evolves. This is both a weakness and a strength: a weakness because it might miss on obvious improvements (worse convergence), but a strength because it is agnostic to the state of the solution and relies purely on the evolutionary mechanism to improve results (more robust, less dependent on problem characteristics). Thus, for example, an EA might perform worse than a MIP on a linear problem, but can work well on a non-linear problem whereas an approach with a MIP at its core will need a lot of heuristics around it.</p>
+<p>EAs have been around for a very long time but have not gained much traction, because their weakness has proved to be a bigger factor in the face of more precise analytical techniques. However, as hardware has improved in the last 5 years (and has enabled us to use AI and machine learning in unforeseen ways), I believe EAs may be able to leverage hardware to address their weakness and might be a viable solution method once more.</p>
+<h2 id="the-deap-framework">The DEAP framework</h2>
+<p>I started looking at EAs in my previous job, where I wanted to use it to find the KPI weights for the optimizer (perhaps a topic for a different post). I started  looking at how I could evaluate what EA could do for me using off-the-shelf (and free) libraries. I found DEAP through <a href="https://www.packtpub.com/product/hands-on-genetic-algorithms-with-python/9781838557744">this book</a> and was able to get started quickly.</p>
+<p>Note that when I say EA, I really mean Genetic Algorithms, and not one of the myriad other approaches (one of the swam intelligence approaches like Ant Colony optimization, for example).</p>
+<p>The problem I picked was one I was familiar with: the <a href="https://www.sintef.no/projectweb/top/vrptw/solomon-benchmark/100-customers/">Solomon benchmarks</a>. These problems are well researched and have near-optimal (or optimal) solutions published. Getting close to these results would tell me that EAs are worth considering as a solution approach.</p>
+<p>One last thing I did was to buy a desktop (AMD Ryzen 4750G with 8 cores at 3.6-4.4 GHz), as my 2013 MacBook Air with 1.3 GHz processor was not going to cut it.</p>
+<p>
+
+<figure>
+    <a href="Screenshot_2021-03-30_232232.png" target="calligraphy-image">
+      <img loading="lazy" src="Screenshot_2021-03-30_232232.png" alt="My new computer running at full tilt">
+    </a>
+  <figcaption class="text-small">My new computer running at full tilt</figcaption>
+</figure>
+</p>
+<h2 id="results">Results</h2>
+<p>I got close to some (but not all) of the best known results.</p>
+<p>
+
+<figure>
+    <a href="C101_828.png" target="calligraphy-image">
+      <img loading="lazy" src="C101_828.png" alt="Result for C101: matched the best known result of 828.94">
+    </a>
+  <figcaption class="text-small">Result for C101: matched the best known result of 828.94</figcaption>
+</figure>
+</p>
+<p>Result for C101: matched the best known result of 828.94</p>
+<p>
+
+<figure>
+    <a href="1702.png" target="calligraphy-image">
+      <img loading="lazy" src="1702.png" alt="Result for R101: best result is 1650 (4% gap)">
+    </a>
+  <figcaption class="text-small">Result for R101: best result is 1650 (4% gap)</figcaption>
+</figure>
+</p>
+<p>Result for R101: best result is 1650 (4% gap)</p>
+<p>
+
+<figure>
+    <a href="RC105_2720.png" target="calligraphy-image">
+      <img loading="lazy" src="RC105_2720.png" alt="Result for RC105: best result is not even close (1377.11)">
+    </a>
+  <figcaption class="text-small">Result for RC105: best result is not even close (1377.11)</figcaption>
+</figure>
+</p>
+<p>Result for RC105: best result is not even close (1377.11)</p>
+<p>I worked on this for about 5 weeks from Feb 20 to March 30, for around 6 - 8 hours a week. Given the (lack of) effort I put in, I would call this a success.</p>
+<p>If I had the opportunity to do so, I would implement a faster and more robust sub optimizer (in say Go or C++), perhaps using <a href="http://webhotel4.ruc.dk/~keld/research/LKH-3/">LKH</a>. I had other ideas I wanted to try before I wrote this (I wanted to let the EA do sequencing as well) but I decided to close the loop and move on.</p>
+<h3 id="code-repository">Code repository:</h3>
+<p><a href="https://github.com/algoexpt/SolomonGA">algoexpt/SolomonGA</a></p>
+<h2 id="high-level-design">High Level Design</h2>
+<p>This is the design that worked best for me. It&rsquo;s not the first design I came up with, and it isn&rsquo;t  the best one. More on this later.
+
+
+<figure>
+    <a href="Screenshot_20220626_173307.png" target="calligraphy-image">
+      <img loading="lazy" src="Screenshot_20220626_173307.png" alt="High level design">
+    </a>
+  <figcaption class="text-small">High level design</figcaption>
+</figure>
+</p>
+<p>I used EA to assign deliveries to trucks and a sub-optimizer to sequence deliveries, given the set of locations assigned by the EA. In this case I used a constraint program (<a href="https://developers.google.com/optimization/cp/cp_solver">ORTools CP-SAT solver</a>) to do the sequencing.</p>
+<p>Why the CP-SAT solver and not the graph solver? Because I wanted to allow for infeasible solutions (with a big penalty). I wanted every chromosome to be a &lsquo;valid&rsquo; one, and to let it evolve naturally to a good solution from infeasible ones. The graph solver would have not allowed me the same flexibility as the CP optimizer.</p>
+<h3 id="the-chromosome">The chromosome</h3>
+<p>Each gene in the chromosome can take values in the domain [0 - N), where N is the max number of trucks. Let&rsquo;s say we have 10 locations (and 1 depot) and 2 trucks. One chromosome might look like:</p>
+<p><code>0 0 0 0 1 1 1 1 1 1</code></p>
+<p>In this chromosome, truck 0 covers the first 4 locations and truck 1 covers the last 6.</p>
+<h3 id="sequencing">Sequencing</h3>
+<p>Sequencing focuses on one truck at a time. For the above example, the sequencing would run for truck 0 with locations 1 to 4 (assume 0 is the depot).</p>
+<p>The sequencing optimizer would consider the following aspects:</p>
+<ul>
+<li>The time windows for the locations (penalizes lateness)</li>
+<li>The total distance driven</li>
+</ul>
+<p>The sequencing optimizer assumes there&rsquo;s no limit on how long a truck has to wait if it arrives before the window starts at a location.</p>
+<p>Note that we can do nothing about the <em>load</em> at this stage, because that depends on the allocation of demands to trucks done in the chromosome. The load will be calculated as part of the evaluation to give the fitness of the chromosome.</p>
+<h3 id="evaluation">Evaluation</h3>
+<p>Evaluation is straightforward:</p>
+<ul>
+<li>A penalty for every second that a truck is late to arrive at a location</li>
+<li>A penalty for the excess load in a truck</li>
+<li>Unit distance covered by the truck</li>
+</ul>
+<p>We sum up the scores for each truck to get the final fitness score of the chromosome.</p>
+<h3 id="evolution">Evolution</h3>
+<p>With the chromosome designed the way it has been, crossover and mutation become quite simple, and every chromosome has a meaning (although it might violate load or time window constraints, for which it would be penalized).</p>
+<p>For my tests, I chose quite simply: a <a href="https://deap.readthedocs.io/en/master/api/tools.html#deap.tools.cxTwoPoint">two-point crossover</a> and mutation that draws from a <a href="https://deap.readthedocs.io/en/master/api/tools.html#deap.tools.mutUniformInt">uniform distribution</a>. More complex crossover and mutation methods in the DEAP library didn&rsquo;t work quite as well (and I didn&rsquo;t bother to investigate why).</p>
+<p>The author of  the <a href="https://www.packtpub.com/product/hands-on-genetic-algorithms-with-python/9781838557744">DEAP book</a> I referred to earlier had introduced a tweak called <em>elitism</em> where the best candidates in the previous generation were carried forward to the next generation unchanged. I found this to be invaluable in converging fast.</p>
+<h2 id="performance-considerations">Performance considerations</h2>
+<h3 id="sequencing-1">Sequencing</h3>
+<p>With EAs, the evaluation of chromosomes has to be very fast in order to be able to explore more chromosomes and do more iterations. With the design I chose, the sequencing sub-optimizer was going to be <em>the</em> bottleneck of the solution.</p>
+<p>With a constraint programming solver, performance comes down to</p>
+<ul>
+<li>How I can reduce domains faster</li>
+<li>How can I cause a constraint violation to happen earlier in the branching</li>
+</ul>
+<p>These are related: a constraint is violated when a variable has no values left in its domain. Thus it sometimes helps to add redundant constraints which cumulatively reduce the domain of variables faster than if we were defining a single well-constructed constraint (like I would have done if this were a linear program, for example).</p>
+<p>For the CP-SAT solver, this is what worked best for me:</p>
+<ul>
+<li>Like any TSP-like problem, I had arcs between every pair of locations. But I changed the meaning of the arc from  <code>a-&gt;b</code> means that &ldquo;<code>b</code> is the <em>next location</em> after <code>a</code>&rdquo; to simply &ldquo;<code>a</code> comes before <code>b</code>&rdquo;. Why? Because this allowed my time and distance calculation at <code>b</code> to be faster: every arc ending at <code>b</code> now had a meaning (rather than if  some <code>x-&gt;b</code> was meaningless unless <code>x</code> was immediately before <code>b</code>).</li>
+<li>I added a sequence number for each location and added an <code>AllDifferent</code> constraint. The sequence number also depended on the arcs; along with the <code>AllDifferent</code>, the number of possible combinations of sequences would limit possibilities, increasing the speed of the sequencing optimizer.</li>
+</ul>
+<h3 id="large-neighborhood-search">Large Neighborhood Search</h3>
+<p>If there&rsquo;s one thing I&rsquo;ve learned from my previous company, it&rsquo;s the value of the large neighborhood search. Time and time again I&rsquo;ve seen it work well for large problems where more traditional &lsquo;one-shot&rsquo; approaches would fail.</p>
+<p>The idea is simple: consider the solution below (a solution for C101). The green truck that goes east from the depot to 90, 88, 76,&hellip; does not interact with the red truck that goes west from the depot to 34, 36, 39,&hellip;</p>
+<p>
+
+<figure>
+    <a href="C101_828%201.png" target="calligraphy-image">
+      <img loading="lazy" src="C101_828%201.png" alt="828">
+    </a>
+  <figcaption class="text-small">828</figcaption>
+</figure>
+</p>
+<p>If the green truck was very badly planned (let&rsquo;s say it&rsquo;s taken on too many locations), it would make sense to include only the &rsquo;nearby&rsquo; trucks in an iteration so that it could more evenly share its load with its neighbors. In this case, the green truck&rsquo;s neighbors are the cyan (98,96,95,&hellip;) and the grey one (80,77,97,&hellip;). So the EA would only need to create chromosomes for the locations covered by these three trucks, and it would (hopefully) converge at a <em>locally</em> optimal solution where this part of the solution looks better.</p>
+<p>The Large Neighborhood Search might then pick up another truck, let&rsquo;s say the grey one, and this time it would include <em>it&rsquo;s</em> neighbors, the green and the brown, thus gradually improving things one neighborhood at a time.</p>
+<h3 id="memoization">Memoization</h3>
+<p>Since sequencing was the bottleneck, I wanted to call the sequencing sub-optimizer as few times as possible, and only for new combinations of locations.</p>
+<p>Consider a problem where my neighborhood has 5 trucks, and during evolution, some chromosome swaps a location between only two of them. I would not want to re-run the sequencing for the other 3 trucks. Further, I wouldn&rsquo;t even want to run the sequencing for the two trucks unless the combination were totally &rsquo;new&rsquo; and I hadn&rsquo;t seen them in previous iterations.</p>
+<p>To do this, I created a dictionary where the keys were tuples of sorted locations and the values were the score.</p>
+<p>This brought a tremendous speed improvement (at the cost of memory) to the EA and I highly recommend memoization wherever possible if you&rsquo;re building an EA yourself.</p>
+<h1 id="concluding-thoughts">Concluding thoughts</h1>
+<p>If you&rsquo;ve read this far&hellip; 🙇🏾‍♂️</p>
+<p>This was quite a fun project to work on. I worked late into the night on Fridays, having lost track of time, which is the best kind of work. All I was doing was looking at text scrolling by in the windows terminal, egging it on&hellip; <em>&ldquo;converge, damn it, converge&rdquo;</em>&hellip;</p>
+<p>
+
+<figure>
+    <a href="Screenshot_2021-03-30_232348.png" target="calligraphy-image">
+      <img loading="lazy" src="Screenshot_2021-03-30_232348.png" alt="My model NOT converging">
+    </a>
+  <figcaption class="text-small">My model NOT converging</figcaption>
+</figure>
+</p>
+<p>My model NOT converging</p>
+<p>Personally I am convinced that with the right hardware, EAs need to be seriously considered, especially for unusual or difficult problems. They are definitely not the solution for <em>every</em> problem: that would be a mistake. To keep costs low, building a library like DEAP (but faster), that is iteratively improved is the right way to go.</p>
+<p>A keen reader might have noticed that my results don&rsquo;t show that EA was able to do what I set out to do when I laid out the <a href="https://www.notion.so/Using-Evolutionary-Algorithms-for-the-CVRP-0bfa73e06d5247a1bfa4988d33ef304b">context</a>: I wanted to see if EA could do well despite different input data thrown at it. In this case the result for RC101 (this is a dataset with a mix of random and clustered demands) is not good.</p>
+<p>I would like to blame it on my own ineptitude rather than the fault of the EA approach. If anything, the DEAP library was quite good in getting me up to speed and getting reasonable results quickly for a first attempt at EAs.</p>
+
+  </section>
+  	
+  	
+  	
+<footer class="card-footer">
+  <ul class="taxonomy-list_tags">
+    <li><a href="https://algoexpt.github.io/tags/or/" class="taxonomy-item">OR</a></li>
+  </ul>
+</footer>
+
+</article>
+    
+    
+  
+<aside class="l-container_right aside card toc">
+    <script type="text/javascript" src="/js/tocbot.min.js"></script>
+  <script>
+    tocbot.init({
+      tocSelector: '.l-container_right',
+      contentSelector: '.card-content',
+      headingSelector: 'h2, h3',
+      hasInnerContainers: true,
+      collapseDepth: 0,
+      headingsOffset: 80,
+      scrollSmoothOffset: -80
+    });
+  </script>
+</aside>
+
+    
+  
+<footer class="l-container_footer">
+  <nav class="pagination">
+    <a href="https://algoexpt.github.io/posts/the_road/" class="pagination-new" role="button"><span class="pagination-title">Next Post</span><br><span>Cormac McCarthy&#39;s &#34;The Road&#34;</span></a>
+    <a href="https://algoexpt.github.io/posts/advice_for_or/advice-for-young-or-professionals/" class="pagination-old" role="button"><span class="pagination-title">Previous Post</span><br><span>Advice for young OR professionals</span></a>
+  </nav>
+</footer>
+
+  </main>
+
+  <footer id="site-footer">
+  <p>Copyright © 2022 | Powered by <a href="https://gohugo.io/">Hugo</a> and <a href="https://github.com/pacollins/calligraphy">Calligraphy</a></p>
+</footer>
+<script type="text/javascript" src="/js/bundle.min.99003690d76075787872f8695ad01f426a217f22e23586c59ce08cb4ddfc43d3.js" crossorigin="anonymous" integrity="sha256-mQA2kNdgdXh4cvhpWtAfQmohfyLiNYbFnOCMtN38Q9M="></script>
+
+
+</body>
+
+</html>

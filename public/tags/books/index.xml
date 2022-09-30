@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books on Random Walks</title>
+    <link>https://algoexpt.github.io/tags/books/</link>
+    <description>Recent content in books on Random Walks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2022</copyright>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://algoexpt.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Wall</title>
+      <link>https://algoexpt.github.io/posts/will/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/will/</guid>
+      <description>Will Smith begins his biography, Will, with the story of his father demolishing a 12x20 feet wall. He asks Will, 11, and his younger brother Harry to rebuild it.
+Will meets this decision with stupefaction:
+I remember looking at that gaping hole in excruciating disbelief. I was utterly certain that there would never be a wall there ever again.
+Will and his brother worked on the wall every day, mixing concrete and carrying the buckets.</description>
+    </item>
+    
+    <item>
+      <title>Cormac McCarthy&#39;s &#34;The Road&#34;</title>
+      <link>https://algoexpt.github.io/posts/the_road/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/the_road/</guid>
+      <description>The Road In &amp;ldquo;The Road&amp;rdquo;, a father and son are making their way towards the sea in a world in which an apocalyptic event has killed most living things.
+It&amp;rsquo;s winter, and it&amp;rsquo;s snowing. Their clothes and shoes are threadbare. They sleep under tarpaulin on the hard ground. During their walk, they manage to find some gasoline, which is useful to build fires, to cook food, to keep warm.</description>
+    </item>
+    
+  </channel>
+</rss>

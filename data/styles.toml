@@ -1,6 +1,6 @@
 # widths
 width-site = "65rem"
-width-content = "60%" # Accepts any value. The optimal line length for readibility is 50-75 characters ("ch" unit).
+width-content = "75ch" # Accepts any value. The optimal line length for readibility is 50-75 characters ("ch" unit).
 width-content-min = "60ch" # Accepts only "ch" unit.
 
 # transitions
@@ -10,8 +10,8 @@ transition-base = ".1s ease-in-out"
 
 # 'Bebas Neue', ...
 
-font-header = "'Gentium Book Plus', sans-serif"
-font-body = "'Gentium Book Plus', sans-serif"
+font-header = "'Gentium Book Plus', serif"
+font-body = "'Gentium Book Plus', serif"
 
 
 #--------------------------------------------

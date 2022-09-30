@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>philosophy on Random Walks</title>
+    <link>https://algoexpt.github.io/tags/philosophy/</link>
+    <description>Recent content in philosophy on Random Walks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2022</copyright>
+    <lastBuildDate>Sun, 17 Jul 2022 17:28:43 +0900</lastBuildDate><atom:link href="https://algoexpt.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conditional Happiness</title>
+      <link>https://algoexpt.github.io/posts/conditional_happiness/</link>
+      <pubDate>Sun, 17 Jul 2022 17:28:43 +0900</pubDate>
+      
+      <guid>https://algoexpt.github.io/posts/conditional_happiness/</guid>
+      <description>Swami Sarvapriyananda, my favorite teacher of philosophy, talks about why happiness conditioned on worldly events, possessions or people, is inherently sorrowful and not true happiness.
+The full talk is about 3 mantras in the Katha Upanishad, where Nachiketa, a little boy, is given by his annoyed father to the Lord of Death and visits him. Yamaraja, the Lord of Death, is not home when Nachiketa visits, so he grants three boons to make up for his lapse.</description>
+    </item>
+    
+  </channel>
+</rss>
