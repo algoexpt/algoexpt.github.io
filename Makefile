@@ -1,6 +1,10 @@
 debug: ## Run in development mode
-	cd randomwalks && hugo serve -D
+	hugo serve -D
 
 release: ## Build the site
-	cd randomwalks && hugo -t calligraphy -d public --gc --minify --cleanDestinationDir
+	hugo -t calligraphy -d public --gc --minify --cleanDestinationDir
+
+clean:
+	rm -rf resources/*
+	rm -rf public/*
 
