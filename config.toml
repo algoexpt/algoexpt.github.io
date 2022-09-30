@@ -1,4 +1,4 @@
-baseURL = "https://algoexpt.github.io/"
+baseURL = "https://algoexpt.github.io/blog"
 title = "Random Walks"
 copyright = "Copyright © 2022"
 paginate = 5
