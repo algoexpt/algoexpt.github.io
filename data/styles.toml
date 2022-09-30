@@ -10,7 +10,7 @@ transition-base = ".1s ease-in-out"
 
 # 'Bebas Neue', ...
 
-font-header = "'Gentium Book Plus', serif"
+font-header = "'Playfair Display', serif"
 font-body = "'Gentium Book Plus', serif"
 
 
