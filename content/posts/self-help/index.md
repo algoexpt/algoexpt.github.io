@@ -22,7 +22,7 @@ actually live by.
 I found myself this morning installing [Zettlr](https://www.zettlr.com/#), 
 because there are stories of people saying they "changed their life
 around" using the zettelkasten method (here's an
-[example](https://news.ycombinator.com/item?id=23386630)). Apparently it's
+[example](https://www.bryanlee.net/blog/the-life-changing-magic-of-zettelkasten). Apparently it's
 the way to become 20% smarter and write amazing books... and overall
 becoming a better person.
 
