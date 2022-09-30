@@ -46,8 +46,8 @@ me go!"_
 So I buy the tool but I still can't make anything better than the dumb
 chair I used to make before  I had the hammer. 
 
-Eh? Where's the 4 poster bed? Where's the world famous recognition of my
-talent?
+Eh? Where's the 4 poster bed? Where's the fame and the world's 
+recognition of my talent? 
 
 Time goes by, the hammer rusts, and in my old age I regret, "If only I had
 _this other tool_, I would have been the best carpenter in the world."
