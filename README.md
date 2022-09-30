@@ -8,4 +8,4 @@ so this is where it ends up.
 ---
 
 
-[1][source](https://i.imgur.com/XiPgY2y.png),
+[1][source](https://i.imgur.com/XiPgY2y.png)
