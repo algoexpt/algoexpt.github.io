@@ -31,6 +31,20 @@ font-family: 'Playfair Display';
   font-weight: 200 900;
 }
 @font-face {
+font-family: 'Alegreya Sans SC';
+	src: url('/fonts/Alegreya_Sans_SC/AlegreyaSansSC-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 400 900;
+}
+
+@font-face {
+font-family: 'Alegreya Sans SC';
+	src: url('/fonts/Alegreya_Sans_SC/AlegreyaSansSC-RegularItalic.ttf') format('truetype');
+  font-style: italic;
+  font-weight: 400 900;
+}
+
+@font-face {
 	font-family: 'Gentium Book Plus';
 	src: url('/fonts/Gentium_Book_Plus/GentiumBookPlus-Regular.ttf') format('truetype');
   font-style: normal;
@@ -47,14 +61,6 @@ font-family: 'Playfair Display';
 @font-face {
 	font-family: 'Fira Code';
 	src: url('/fonts/Fira_Code/FiraCode-VariableFont_wght.ttf') format('truetype');
-  font-style: normal;
-  font-weight: 200 900;
-}
-
-
-@font-face {
-	font-family: 'Bebas Neue';
-	src: url('/fonts/Bebas_Neue/BebasNeue-Regular.ttf') format('truetype');
   font-style: normal;
   font-weight: 200 900;
 }
