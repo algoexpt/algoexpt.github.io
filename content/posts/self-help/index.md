@@ -6,13 +6,15 @@ tags : ["life"]
 ---
 
 It took a long time for me to realize that I couldn't improve myself by
-reading self help books. My insecurities made me feel that others knew
-more than me, if only I could be like them or get that one piece of advice
-that would fill the void in my soul...
+reading self help books. My insecure self was hyper sensitive to my
+shortcomings and the superiority of others. I felt I could be better with
+some magic key, with that one piece of advice that would fill the void in
+my soul.
 
-But it doesn't work like that. Nothing external can improve our lives. Not
-advice, not money, not even the love of someone. _WE_ fill our own voids,
-by accepting who we are and finding satisfaction in the present.
+But it doesn't work like that. Nothing external can improve our lives by
+itself. Not advice, not money, not even the love of someone. _WE_ fill our
+own void, by accepting who we are and finding satisfaction in the present,
+and by _making something of what is given_.
 
 I'll stop here. These things are easy to say and bloody hard to
 actually live by.
@@ -22,9 +24,8 @@ actually live by.
 I found myself this morning installing [Zettlr](https://www.zettlr.com/#), 
 because there are stories of people saying they "changed their life
 around" using the zettelkasten method (here's an
-[example](https://www.bryanlee.net/blog/the-life-changing-magic-of-zettelkasten). Apparently it's
-the way to become 20% smarter and write amazing books... and overall
-becoming a better person.
+[example](https://www.bryanlee.net/blog/the-life-changing-magic-of-zettelkasten)).
+Apparently it's the way to become 20% smarter and write amazing books...
 
 Please don't pay any attention to my cynical tone. It's because I can't
 get any value from it myself. Yet. 
