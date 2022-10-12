@@ -4,6 +4,8 @@ date: 2022-08-06T12:31:17+09:00
 description: "Shots taken after a run"
 tags: ["photography","life", "running"]
 series: "snapshots"
+
+feature: "20220723_092423.jpg"
 ---
 
 For a while I was convinced pushing weights with my noodle-like arms in the gym was the best way to get fit, but I never got into the groove of the gym. It never graduated from being a painful chore to something I enjoyed doing.
@@ -71,11 +73,6 @@ Black Tailed Gulls are the offical mascot of [Dokdo](https://en.wikipedia.org/wi
 ---
 
 
-![July 23rd](20220723_092423.jpg)
-
-The orange pavement for pedestrians on the right is slightly softer than the grey pavement for riders. This stretch runs straight for almost 6 km, and is great for runs of 10km or more. 
-
----
 
 
 ![July 29th](20220729_215649.jpg)

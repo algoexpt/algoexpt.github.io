@@ -3,10 +3,12 @@ title: "Self Help"
 date: 2022-09-29T15:16:24+09:00
 description : "Trying to fill the void from outside doesn't work"
 tags : ["life"]
+
+feature: "shiromani-kant-mo3FOTG62ao-unsplash.jpg"
 ---
 
 It took a long time for me to realize that I couldn't improve myself by
-reading self help books. My insecure self was hyper sensitive to my
+reading self-help books. My insecure self was hyper sensitive to my
 shortcomings and the superiority of others. I felt I could be better with
 some magic key, with that one piece of advice that would fill the void in
 my soul.
@@ -25,7 +27,7 @@ I found myself this morning installing [Zettlr](https://www.zettlr.com/#),
 because there are stories of people saying they "changed their life
 around" using the zettelkasten method (here's an
 [example](https://www.bryanlee.net/blog/the-life-changing-magic-of-zettelkasten)).
-Apparently it's the way to become 20% smarter and write amazing books...
+Apparently it's the way to become 20% smarter and win Pulitzers.
 
 Please don't pay any attention to my cynical tone. It's because I can't
 get any value from it myself. Yet. 
@@ -54,7 +56,8 @@ Time goes by, the hammer rusts, and in my old age I regret, "If only I had
 _this other tool_, I would have been the best carpenter in the world."
 
 You get my point. It's not the tool. It's the hand that wields, the brain
-that thinks, the person who uses the tool.
+that thinks, the person who uses the tool. Advice helps, but the person
+receiving advice must be ready. It's not about the advice itself.
 
 Can't fill that void with things from outside yourself.
 

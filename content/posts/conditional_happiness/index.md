@@ -3,6 +3,8 @@ title: "Conditional Happiness"
 date: 2022-07-17T17:28:43+09:00
 description: "I will be happy IF you like this post"
 tags: ["philosophy"]
+
+feature: "yuyeung-lau-VOV0q44b7R4-unsplash.jpg"
 ---
 
 [Swami Sarvapriyananda](https://www.vedantany.org/resident-swamis/), my favorite teacher of philosophy, talks about why happiness conditioned on worldly events, possessions or people, is inherently sorrowful and not true happiness. 
