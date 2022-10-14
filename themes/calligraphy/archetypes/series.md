@@ -1,5 +1,0 @@
-+++
-title = ""
-textColor = ""
-backgroundColor = ""
-+++
