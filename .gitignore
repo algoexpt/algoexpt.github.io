@@ -1,4 +1,7 @@
 .obsidian/
+<<<<<<< HEAD
 themes/*
+=======
+>>>>>>> parent of bbca687 (removed themes dir)
 resources/
 resources/_gen/
