@@ -99,7 +99,8 @@ middling, average guy who isn't too great and isn't too bad.
 
 Of late I've come to accept that this is who I am. People I think as
 'more' successful must have the same thoughts as me, don't they? Are they
-somehow happier than I am? I don't think so.
+somehow happier than I am? I don't think so. The path of self-improvement
+doesn't end with rainbows and butterflies. 
 
 The final way to get better is to stop trying, and let it go. You'll get
 better or worse or stay the same and there's nothing _you_ can do about
