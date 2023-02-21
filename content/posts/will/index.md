@@ -31,15 +31,3 @@ Will credits this lesson for his success.
 
 > For my entire career, I have been absolutely relentless. I’ve been committed to a work ethic of uncompromising intensity. And the secret to my success is as boring as it is unsurprising: You show up and you lay another brick. Pissed off? Lay another brick. Bad opening weekend? Lay another brick. Album sales dropping? Get up and lay another brick. Marriage failing? Lay another brick.
 
-
----
-I had a moment of déjà vu reading this. It took me back years ago, in front of a cafeteria window, with a newbie OR scientist telling me she was overwhelmed on her first project. 
-
-There was a mall being constructed across the road.
-
-I asked her to consider the brick layer working at the site. He probably came in at 9, worked till 5, and stopped. The brick layer wasn't building *the whole* building - he was putting one brick at a time, as best as he could.
-
-That's all she had to do: write the next constraint, solve the next infeasibility, check if the next run gave good KPIs. When it was time to go home, she should go home. She didn't have to worry about the optimizer, it would get built. One brick at a time.
-
-
-
