@@ -9,7 +9,7 @@ feature: "yuyeung-lau-VOV0q44b7R4-unsplash.jpg"
 
 [Swami Sarvapriyananda](https://www.vedantany.org/resident-swamis/), my favorite teacher of philosophy, [talks](https://youtu.be/VJ2g3HSYK6E?t=1288) about why happiness conditioned on worldly events, possessions or people, is inherently sorrowful and not true happiness.
 
-The full talk is about 3 mantras in the *Katha Upanishad*, where *Nachiketa*, a little boy given by his annoyed father to the Lord of Death, *Yamaraja* and visits him. Yamaraja is not home when Nachiketa visits, so he grants three boons to make up for his lapse. Nachiketa asks for knowledge of the self - but Yamaraja offers him all the wealth and pleasures that he can imagine instead. Nachiketa refuses.
+The full talk is about 3 mantras in the *Katha Upanishad*, where *Nachiketa*, a little boy given by his annoyed father to the Lord of Death, *Yamaraja* visits him. Yamaraja is not home when Nachiketa visits, so he grants three boons to make up for his lapse. Nachiketa asks for knowledge of the self - but Yamaraja offers him all the wealth and pleasures that he can imagine instead. Nachiketa refuses.
 
 Swami Sarvapriyananda tells us why:
 
