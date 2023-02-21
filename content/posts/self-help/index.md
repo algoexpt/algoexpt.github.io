@@ -1,13 +1,12 @@
 ---
 title: "The best tools in the world"
 date: 2022-09-29T15:16:24+09:00
-description : "The void is not filled from outside in" 
+description : "What I own cannot change who I am"
 tags : ["life" ]
 
 feature: "shiromani-kant-mo3FOTG62ao-unsplash.jpg"
 ---
 
-## The lure of better tools 
 
 I found myself this morning installing
 [Zettlr](https://www.zettlr.com/#), because there are stories of people
@@ -41,5 +40,4 @@ Time goes by, the hammer rusts, and in my old age I regret, "If only I had
 _this other tool_, I would have been the best carpenter in the world."
 
 You get my point. It's not the tool. It's the hand that wields, the brain
-that thinks, the person who uses the tool. Advice helps, but the person
-receiving advice must be ready. It's not about the advice itself.
+that thinks, the person who uses the tool.
