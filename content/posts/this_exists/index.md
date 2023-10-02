@@ -1,7 +1,6 @@
 ---
 title: "This Exists"
 date: 2023-10-02T16:18:39+09:00
-draft: true
 description: "Time passes on relentless"
 tags: ["personal", "rant"]
 feature: "jose-p-ortiz-vfKp-zpqnyo-unsplash.jpg"
