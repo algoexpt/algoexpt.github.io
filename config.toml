@@ -1,6 +1,6 @@
 baseURL = "https://algoexpt.github.io/"
 title = "Random Walks"
-copyright = "Copyright © 2022"
+copyright = "Copyright © 2023"
 paginate = 5
 languageCode = "en"
 DefaultContentLanguage = "en"
