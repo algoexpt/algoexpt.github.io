@@ -1,7 +1,6 @@
 ---
 title: "Thought for today"
 date: 2023-10-08T11:12:16+09:00
-draft: true
 description: "On the pursuit of happiness"
 tags: ["personal", "philosophy"]
 feature: "20160930_091102.jpg"
