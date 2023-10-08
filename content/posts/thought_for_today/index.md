@@ -18,7 +18,7 @@ As a consequence, I either find myself wishing away the things that make me unha
 
 ---
 
-Since introspection is not helpful, I turn to philosophy to find the meaning of all this. I'll try to summarize what I understand so far.
+Since introspection is not helpful, I turn to the philosophy of Vedanta to find the meaning of all this. I'll try to summarize what I understand so far.
 
 -  **Everything** is "_Maya_" - false - and that includes me the individual, and my experience of this world.
 - Since our experiences (including thoughts) can be boiled down to sensory perceptions, there is nothing to prove that the world is real and exists outside our sensory experience.
