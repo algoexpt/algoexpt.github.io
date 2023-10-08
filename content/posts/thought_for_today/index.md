@@ -13,7 +13,7 @@ feature: "20160930_091102.jpg"
 
 I'm never really certain about what would make me happy, but almost always clear about what makes me unhappy in the moment. 
 
-As a consequence, I either find myself wishing away the things that make me unhappy, or I use [Mimetic Desire](https://www.psychologytoday.com/intl/blog/mind-brain-and-value/202108/why-mimetic-desire-is-key-understanding-social-media) - society's definition of success - as a substitute to defining what happiness means to me and pursuing it.
+As a consequence, I either find myself wishing away the things that make me unhappy, or I use [Mimetic Desire](https://en.wikipedia.org/wiki/Mimetic_theory) - society's definition of success - as a substitute to defining what happiness means to me and pursuing it.
 
 
 ---
