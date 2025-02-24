@@ -2,75 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://algoexpt.github.io/tags/life/</loc>
+    <loc>http://localhost:1313/starting_new/</loc>
+    <lastmod>2025-02-24T22:22:50+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/life/</loc>
+    <lastmod>2025-02-24T22:22:50+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/personal/</loc>
+    <lastmod>2025-02-24T22:22:50+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-24T22:22:50+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-24T22:22:50+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <lastmod>2023-10-08T11:12:16+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/thought_for_today/</loc>
+    <lastmod>2023-10-08T11:12:16+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rant/</loc>
+    <lastmod>2023-10-02T16:18:39+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/this_exists/</loc>
+    <lastmod>2023-10-02T16:18:39+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/self-help/</loc>
     <lastmod>2022-09-29T15:16:24+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/posts/</loc>
-    <lastmod>2022-09-29T15:16:24+09:00</lastmod>
-  </url><url>
-    <loc>https://algoexpt.github.io/</loc>
-    <lastmod>2022-09-29T15:16:24+09:00</lastmod>
-  </url><url>
-    <loc>https://algoexpt.github.io/tags/</loc>
-    <lastmod>2022-09-29T15:16:24+09:00</lastmod>
-  </url><url>
-    <loc>https://algoexpt.github.io/posts/self-help/</loc>
-    <lastmod>2022-09-29T15:16:24+09:00</lastmod>
-  </url><url>
-    <loc>https://algoexpt.github.io/tags/photography/</loc>
+    <loc>http://localhost:1313/tags/photography/</loc>
     <lastmod>2022-08-06T12:31:17+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/tags/running/</loc>
+    <loc>http://localhost:1313/tags/running/</loc>
     <lastmod>2022-08-06T12:31:17+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/posts/running_shots/</loc>
+    <loc>http://localhost:1313/running_shots/</loc>
     <lastmod>2022-08-06T12:31:17+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <lastmod>2022-08-06T12:31:17+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/series/snapshots/</loc>
+    <loc>http://localhost:1313/series/snapshots/</loc>
     <lastmod>2022-08-06T12:31:17+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/posts/nightwalk/</loc>
+    <loc>http://localhost:1313/nightwalk/</loc>
     <lastmod>2022-07-23T21:28:43+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/posts/conditional_happiness/</loc>
+    <loc>http://localhost:1313/conditional_happiness/</loc>
     <lastmod>2022-07-17T17:28:43+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/tags/philosophy/</loc>
-    <lastmod>2022-07-17T17:28:43+09:00</lastmod>
-  </url><url>
-    <loc>https://algoexpt.github.io/tags/career/</loc>
+    <loc>http://localhost:1313/tags/career/</loc>
     <lastmod>2022-07-07T01:49:43+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/posts/massgoodbye/</loc>
+    <loc>http://localhost:1313/massgoodbye/</loc>
     <lastmod>2022-07-07T01:49:43+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/tags/books/</loc>
+    <loc>http://localhost:1313/tags/books/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/posts/will/</loc>
+    <loc>http://localhost:1313/will/</loc>
     <lastmod>2022-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/posts/the_road/</loc>
+    <loc>http://localhost:1313/the_road/</loc>
     <lastmod>2021-06-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/tags/or/</loc>
+    <loc>http://localhost:1313/cvrp/</loc>
     <lastmod>2021-05-26T16:48:33+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/posts/cvrp/cvrp/</loc>
+    <loc>http://localhost:1313/tags/or/</loc>
     <lastmod>2021-05-26T16:48:33+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/posts/advice_for_or/advice-for-young-or-professionals/</loc>
+    <loc>http://localhost:1313/cvrp/cvrp/</loc>
+    <lastmod>2021-05-26T16:48:33+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/advice_for_or/advice-for-young-or-professionals/</loc>
     <lastmod>2021-05-15T16:48:33+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/authors/</loc>
+    <loc>http://localhost:1313/advice_for_or/</loc>
+    <lastmod>2021-05-15T16:48:33+09:00</lastmod>
   </url><url>
-    <loc>https://algoexpt.github.io/categories/</loc>
+    <loc>http://localhost:1313/authors/</loc>
   </url><url>
-    <loc>https://algoexpt.github.io/about/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://algoexpt.github.io/snaps/</loc>
+    <loc>http://localhost:1313/snaps/</loc>
   </url>
 </urlset>

@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snaps on Random Walks</title>
-    <link>https://algoexpt.github.io/snaps/</link>
+    <link>http://localhost:1313/snaps/</link>
     <description>Recent content in Snaps on Random Walks</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Copyright © 2022</copyright><atom:link href="https://algoexpt.github.io/snaps/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2025</copyright>
+    <atom:link href="http://localhost:1313/snaps/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

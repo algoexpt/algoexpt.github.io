@@ -1,34 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>books on Random Walks</title>
-    <link>https://algoexpt.github.io/tags/books/</link>
-    <description>Recent content in books on Random Walks</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Books on Random Walks</title>
+    <link>http://localhost:1313/tags/books/</link>
+    <description>Recent content in Books on Random Walks</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Copyright © 2022</copyright>
-    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://algoexpt.github.io/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Sun, 26 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Wall</title>
-      <link>https://algoexpt.github.io/posts/will/</link>
+      <link>http://localhost:1313/will/</link>
       <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://algoexpt.github.io/posts/will/</guid>
-      <description>Will Smith begins his biography, Will, with the story of his father demolishing a 12x20 feet wall. He asks Will, 11, and his younger brother Harry to rebuild it.
-Will meets this decision with stupefaction:
-I remember looking at that gaping hole in excruciating disbelief. I was utterly certain that there would never be a wall there ever again.
-Will and his brother worked on the wall every day, mixing concrete and carrying the buckets.</description>
+      <guid>http://localhost:1313/will/</guid>
+      <description>&lt;p&gt;Will Smith begins his biography, &lt;em&gt;Will&lt;/em&gt;, with the story of his father demolishing a 12x20 feet wall.  He asks Will, 11, and his younger brother Harry to rebuild it.&lt;/p&gt;&#xA;&lt;p&gt;Will meets this decision with stupefaction:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I remember looking at that gaping hole in excruciating disbelief. I was utterly certain that there would never be a wall there ever again.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Will and his brother worked on the wall every day, mixing concrete and carrying the buckets. They worked weekends, holidays, vacations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cormac McCarthy&#39;s &#34;The Road&#34;</title>
-      <link>https://algoexpt.github.io/posts/the_road/</link>
+      <link>http://localhost:1313/the_road/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://algoexpt.github.io/posts/the_road/</guid>
-      <description>The Road In &amp;ldquo;The Road&amp;rdquo;, a father and son are making their way towards the sea in a world in which an apocalyptic event has killed most living things.
-It&amp;rsquo;s winter, and it&amp;rsquo;s snowing. Their clothes and shoes are threadbare. They sleep under tarpaulin on the hard ground. During their walk, they manage to find some gasoline, which is useful to build fires, to cook food, to keep warm.</description>
+      <guid>http://localhost:1313/the_road/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;a href=&#34;the-road-cormac-mccarthy1-1224859981.jpg&#34; target=&#34;calligraphy-image&#34;&gt;&#xA;      &lt;img loading=&#34;lazy&#34; src=&#34;the-road-cormac-mccarthy1-1224859981.jpg&#34; alt=&#34;The Road&#34;&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;figcaption class=&#34;text-small&#34;&gt;The Road&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In &amp;ldquo;The Road&amp;rdquo;, a father and son are making their way towards the sea in a world in which an apocalyptic event has killed most living things.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s winter, and it&amp;rsquo;s snowing. Their clothes and shoes are threadbare. They sleep under tarpaulin on the hard ground. During their walk, they manage to find some gasoline, which is useful to build fires, to cook food, to keep warm.&lt;/p&gt;&#xA;&lt;p&gt;Then this happens:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

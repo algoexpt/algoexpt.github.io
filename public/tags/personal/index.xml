@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Random Walks</title>
+    <link>http://localhost:1313/tags/personal/</link>
+    <description>Recent content in Personal on Random Walks</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Mon, 24 Feb 2025 22:22:50 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I will be okay</title>
+      <link>http://localhost:1313/starting_new/</link>
+      <pubDate>Mon, 24 Feb 2025 22:22:50 +0530</pubDate>
+      <guid>http://localhost:1313/starting_new/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had a tough time getting started. When I first left our house in September 2024 it was a haze, the relief of a pain subsiding and the feeling of something momentous happening mingling together in the busyness of getting set up for myself. Then came the pain and anger and the realization that with the coming out came the giving up, of my being a father to my daughter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thought for today</title>
+      <link>http://localhost:1313/thought_for_today/</link>
+      <pubDate>Sun, 08 Oct 2023 11:12:16 +0900</pubDate>
+      <guid>http://localhost:1313/thought_for_today/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;I don&amp;rsquo;t know what it means to be happy.&lt;/li&gt;&#xA;&lt;li&gt;Despite this, I am in the pursuit of happiness.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I&amp;rsquo;m never really certain about what would make me happy, but almost always clear about what makes me unhappy in the moment.&lt;/p&gt;&#xA;&lt;p&gt;As a consequence, I either find myself wishing away the things that make me unhappy, or I use &lt;a href=&#34;https://en.wikipedia.org/wiki/Mimetic_theory&#34;&gt;Mimetic Desire&lt;/a&gt; - society&amp;rsquo;s definition of success - as a substitute to defining what happiness means to me and pursuing it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This Exists</title>
+      <link>http://localhost:1313/this_exists/</link>
+      <pubDate>Mon, 02 Oct 2023 16:18:39 +0900</pubDate>
+      <guid>http://localhost:1313/this_exists/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve let myself down. One of my goals setting up this site was to be &amp;ldquo;consistent&amp;rdquo; in writing. There is this oft-heard story about a &lt;a href=&#34;https://www.youtube.com/watch?v=jtTdJwy68po&#34;&gt;pottery class&lt;/a&gt; where a group that  made more pots also created better quality pots eventually than the group tasked with just creating the single &amp;ldquo;perfect&amp;rdquo; pot. So, I thought, if I could write bad posts often enough, I could get better at writing.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s not that I&amp;rsquo;ve pursued perfection in writing and been stopped by something like writer&amp;rsquo;s block. Far from it - I&amp;rsquo;ve been satiated by just the act of setting up this site. I&amp;rsquo;ve been misled into thinking that this site was the goal, not the writing. I threw myself with enthusiasm into setting up the template, creating the github actions that would publish this blog, and adding bells and whistles that would just make this site so much more &amp;lsquo;perfect&amp;rsquo;. Once done, and a few posts in, I lost steam.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
