@@ -1,7 +1,7 @@
 ---
 title: I will be okay
 date: 2025-02-24T22:22:50+05:30
-draft: true
+draft: false
 description: Empty words to garland an emptiness
 tags:
   - personal
@@ -9,10 +9,6 @@ tags:
 ---
 
 I've had a tough time getting started. When I first left our house in September 2024 it was a haze, the relief of a pain subsiding and the feeling of something momentous happening mingling together in the busyness of getting set up for myself. Then came the pain and anger and the realization that with the coming out came the giving up, of my being a father to my daughter.
-
-I won't dwell too much on this. There are still pockets of pain that remain and I don't want to address this too directly, at least now. She will read this later, and hopefully understand her old man just a little better without me having to write here how much I love her and how hard done I am by the injustices of the world and blah this and blah that.
-
-No, we'll write about life and let these pages take a shape of their own.
 
 ----
 
