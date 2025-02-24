@@ -24,7 +24,7 @@ My little baby talks big words. I cannot argue with her, she has learned these f
 
 It is February 23, 2025, and I haven't seen M's face this year. The pain eases away. I try searching for its familiar sharpness, but it is now dull. My ex tells me she is well. She is studying, she says, she is playing with her friends. Maybe she doesn't remember me so much, or the thought of me slips away just a little bit easier. I fade into the background of her life, a figure who once played with her and now occasionally visits her with gifts and vanishes once again. Someone not important.
 
-I draw strength from this. I will move on with my life too. I will heal myself, mould the clay of my soul in new and stronger ways. I will read more, sleep better, eat better, hit the gym. I still can't see M's face in my phone's gallery but as long as I don't, I am okay. I am busy with work and that's a blessing.
+I draw strength from this. I will move on with my life too. I will heal myself, mould the clay of my soul in new and stronger ways. I will read more, sleep better, eat better, hit the gym. I still can't see M's face in my phone's photo  gallery; as long as I don't, I am okay. I am busy with work and that's a blessing.
 
 Things break. We break. I broke long ago and held on because I wasn't ready to fall apart. Now I've fallen and I've started picking myself up because finally, finally, I am able to put words on screen.
 
