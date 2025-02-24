@@ -2,7 +2,7 @@
 title: I will be okay
 date: 2025-02-24T22:22:50+05:30
 draft: true
-description: Empty words to garland an experience
+description: Empty words to garland an emptiness
 tags:
   - personal
   - life

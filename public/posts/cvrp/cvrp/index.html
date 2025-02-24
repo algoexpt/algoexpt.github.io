@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="light">
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   
   <title>Using Evolutionary Algorithms for the CVRP | Random Walks</title>
   <meta name="viewport" content="width=device-width,minimum-scale=1">
   <meta name="description" content="I use off-the-shelf tools to see how far I can go">
-  <meta name="generator" content="Hugo 0.118.2">
-  <meta name="robots" content="index, follow">
+  <meta name="generator" content="Hugo 0.144.2">
+  <meta name="robots" content="noindex, nofollow">
 
   
 <link rel="stylesheet" href="/css/libraries.min.71ed9843bd9de5b970d18e88108ced41f778369861ec5e39a971f94435ada25f.css" crossorigin="anonymous" integrity="sha256-ce2YQ72d5blw0Y6IEIztQfd4Nphh7F45qXH5RDWtol8=">
@@ -17,23 +17,23 @@
   
 <link rel="stylesheet" href="/scss/main.min.d5a7283a85bd8b47e95fb24d1b24216edeb8da982ea87cd199e61203b6bed549.css" crossorigin="anonymous" integrity="sha256-1acoOoW9i0fpX7JNGyQhbt642pguqHzRmeYSA7a&#43;1Uk=">
 
-  <link rel="apple-touch-icon" sizes="180x180" href="https://algoexpt.github.io/favicon/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="https://algoexpt.github.io/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="https://algoexpt.github.io/favicon/favicon-16x16.png">
-  <link rel="manifest" href="https://algoexpt.github.io/favicon/site.webmanifest">
-  <link rel="mask-icon" href="https://algoexpt.github.io/favicon/safari-pinned-tab.svg" color="#00aba9">
-  <link rel="shortcut icon" href="https://algoexpt.github.io/favicon/favicon.ico">
+  <link rel="apple-touch-icon" sizes="180x180" href="http://localhost:1313/favicon/apple-touch-icon.png?v=">
+  <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon/favicon-32x32.png?v=">
+  <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon/favicon-16x16.png?v=">
+  <link rel="manifest" href="http://localhost:1313/favicon/site.webmanifest?v=">
+  <link rel="mask-icon" href="http://localhost:1313/favicon/safari-pinned-tab.svg?v=" color="#00aba9">
+  <link rel="shortcut icon" href="http://localhost:1313/favicon/favicon.ico?v=">
   <meta name="msapplication-TileColor" content="#00aba9">
-  <meta name="msapplication-config" content="https://algoexpt.github.io/favicon/browserconfig.xml">
+  <meta name="msapplication-config" content="http://localhost:1313/favicon/browserconfig.xml?v=">
   <meta name="theme-color" content="#00aba9"><meta name="keywords" content="OR">
   <meta name="og:title" content="Using Evolutionary Algorithms for the CVRP">
   <meta name="og:description" content="I use off-the-shelf tools to see how far I can go">
   <meta name="og:type" content="article">
   <meta name="og:site_name" content="Random Walks">
-  <meta name="og:url" content="https://algoexpt.github.io/posts/cvrp/cvrp/">
+  <meta name="og:url" content="http://localhost:1313/posts/cvrp/cvrp/">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="og:image" content="https://algoexpt.github.io/img/screenshot_huea78ebc997e67ec44ce45d53f6e95542_538717_1200x630_fit_q75_box.jpg">
-  <meta name="twitter:image" content="https://algoexpt.github.io/img/screenshot_huea78ebc997e67ec44ce45d53f6e95542_538717_6f7a425958d118b2169df5f15d64961e.jpg">
+  <meta name="og:image" content="http://localhost:1313/img/screenshot_hu_ebaa9bbe0ff097ad.jpg">
+  <meta name="twitter:image" content="http://localhost:1313/img/screenshot_hu_3bb4e988400d39b4.jpg">
   
 	
 </head>
@@ -104,7 +104,7 @@
   <header class="card-header">
   
   <div class="card-meta">
-    <span><time datetime="2021-05-26 16:48:33 &#43;0900 KST">May 26 2021</time> · 10 min read</span>
+    <span><time datetime="2021-05-26 16:48:33 &#43;0900 &#43;0900">May 26 2021</time> · 10 min read</span>
   </div>
   <h1 class="card-title"><a href="/posts/cvrp/cvrp/">Using Evolutionary Algorithms for the CVRP</a></h1>
   
@@ -128,7 +128,7 @@
 
 <figure>
     <a href="Screenshot_2021-03-30_232232.png" target="calligraphy-image">
-      <img loading="lazy" src="Screenshot_2021-03-30_232232.png" alt="My new computer running at full tilt">
+      <img loading="lazy" src="/posts/cvrp/cvrp/Screenshot_2021-03-30_232232_hu_e2f4cc5060bb7018.png" alt="My new computer running at full tilt">
     </a>
   <figcaption class="text-small">My new computer running at full tilt</figcaption>
 </figure>
@@ -139,7 +139,7 @@
 
 <figure>
     <a href="C101_828.png" target="calligraphy-image">
-      <img loading="lazy" src="C101_828.png" alt="Result for C101: matched the best known result of 828.94">
+      <img loading="lazy" src="/posts/cvrp/cvrp/C101_828_hu_7ef46033eb3644f1.png" alt="Result for C101: matched the best known result of 828.94">
     </a>
   <figcaption class="text-small">Result for C101: matched the best known result of 828.94</figcaption>
 </figure>
@@ -149,7 +149,7 @@
 
 <figure>
     <a href="1702.png" target="calligraphy-image">
-      <img loading="lazy" src="1702.png" alt="Result for R101: best result is 1650 (4% gap)">
+      <img loading="lazy" src="/posts/cvrp/cvrp/1702_hu_bf99214a4e31556.png" alt="Result for R101: best result is 1650 (4% gap)">
     </a>
   <figcaption class="text-small">Result for R101: best result is 1650 (4% gap)</figcaption>
 </figure>
@@ -159,7 +159,7 @@
 
 <figure>
     <a href="RC105_2720.png" target="calligraphy-image">
-      <img loading="lazy" src="RC105_2720.png" alt="Result for RC105: best result is not even close (1377.11)">
+      <img loading="lazy" src="/posts/cvrp/cvrp/RC105_2720_hu_d84361c4c3a27813.png" alt="Result for RC105: best result is not even close (1377.11)">
     </a>
   <figcaption class="text-small">Result for RC105: best result is not even close (1377.11)</figcaption>
 </figure>
@@ -175,7 +175,7 @@
 
 <figure>
     <a href="Screenshot_20220626_173307.png" target="calligraphy-image">
-      <img loading="lazy" src="Screenshot_20220626_173307.png" alt="High level design">
+      <img loading="lazy" src="/posts/cvrp/cvrp/Screenshot_20220626_173307_hu_8b35ac87434eaa3.png" alt="High level design">
     </a>
   <figcaption class="text-small">High level design</figcaption>
 </figure>
@@ -263,7 +263,7 @@
   	
 <footer class="card-footer">
   <ul class="taxonomy-list_tags">
-    <li><a href="https://algoexpt.github.io/tags/or/" class="taxonomy-item">OR</a></li>
+    <li><a href="http://localhost:1313/tags/or/" class="taxonomy-item">OR</a></li>
   </ul>
 </footer>
 
@@ -290,15 +290,15 @@
   
 <footer class="l-container_footer">
   <nav class="pagination">
-    <a href="https://algoexpt.github.io/posts/the_road/" class="pagination-new" role="button"><span class="pagination-title">Next Post</span><br><span>Cormac McCarthy&#39;s &#34;The Road&#34;</span></a>
-    <a href="https://algoexpt.github.io/posts/advice_for_or/advice-for-young-or-professionals/" class="pagination-old" role="button"><span class="pagination-title">Previous Post</span><br><span>Advice for young OR professionals</span></a>
+    <a href="http://localhost:1313/posts/the_road/" class="pagination-new" role="button"><span class="pagination-title">Next Post</span><br><span>Cormac McCarthy&#39;s &#34;The Road&#34;</span></a>
+    <a href="http://localhost:1313/posts/advice_for_or/advice-for-young-or-professionals/" class="pagination-old" role="button"><span class="pagination-title">Previous Post</span><br><span>Advice for young OR professionals</span></a>
   </nav>
 </footer>
 
   </main>
 
   <footer id="site-footer">
-  <p>Copyright © 2022 | Powered by <a href="https://gohugo.io/">Hugo</a> and <a href="https://github.com/pacollins/calligraphy">Calligraphy</a></p>
+  <p>Copyright © 2025 | Powered by <a href="https://gohugo.io/">Hugo</a> and <a href="https://github.com/pacollins/calligraphy">Calligraphy</a></p>
 </footer>
 <script type="text/javascript" src="/js/bundle.min.99003690d76075787872f8695ad01f426a217f22e23586c59ce08cb4ddfc43d3.js" crossorigin="anonymous" integrity="sha256-mQA2kNdgdXh4cvhpWtAfQmohfyLiNYbFnOCMtN38Q9M="></script>
 

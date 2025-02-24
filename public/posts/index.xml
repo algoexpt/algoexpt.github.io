@@ -2,106 +2,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Random Walks</title>
-    <link>https://algoexpt.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Random Walks</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Copyright © 2022</copyright>
-    <lastBuildDate>Thu, 29 Sep 2022 15:16:24 +0900</lastBuildDate><atom:link href="https://algoexpt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Mon, 24 Feb 2025 22:22:50 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I will be okay</title>
+      <link>http://localhost:1313/posts/starting_new/</link>
+      <pubDate>Mon, 24 Feb 2025 22:22:50 +0530</pubDate>
+      <guid>http://localhost:1313/posts/starting_new/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had a tough time getting started. When I first left our house in September 2024 it was a haze, the relief of a pain subsiding and the feeling of something momentous happening mingling together in the busyness of getting set up for myself. Then came the pain and anger and the realization that with the coming out came the giving up, of my being a father to my daughter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thought for today</title>
+      <link>http://localhost:1313/posts/thought_for_today/</link>
+      <pubDate>Sun, 08 Oct 2023 11:12:16 +0900</pubDate>
+      <guid>http://localhost:1313/posts/thought_for_today/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;I don&amp;rsquo;t know what it means to be happy.&lt;/li&gt;&#xA;&lt;li&gt;Despite this, I am in the pursuit of happiness.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I&amp;rsquo;m never really certain about what would make me happy, but almost always clear about what makes me unhappy in the moment.&lt;/p&gt;&#xA;&lt;p&gt;As a consequence, I either find myself wishing away the things that make me unhappy, or I use &lt;a href=&#34;https://en.wikipedia.org/wiki/Mimetic_theory&#34;&gt;Mimetic Desire&lt;/a&gt; - society&amp;rsquo;s definition of success - as a substitute to defining what happiness means to me and pursuing it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This Exists</title>
+      <link>http://localhost:1313/posts/this_exists/</link>
+      <pubDate>Mon, 02 Oct 2023 16:18:39 +0900</pubDate>
+      <guid>http://localhost:1313/posts/this_exists/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve let myself down. One of my goals setting up this site was to be &amp;ldquo;consistent&amp;rdquo; in writing. There is this oft-heard story about a &lt;a href=&#34;https://www.youtube.com/watch?v=jtTdJwy68po&#34;&gt;pottery class&lt;/a&gt; where a group that  made more pots also created better quality pots eventually than the group tasked with just creating the single &amp;ldquo;perfect&amp;rdquo; pot. So, I thought, if I could write bad posts often enough, I could get better at writing.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s not that I&amp;rsquo;ve pursued perfection in writing and been stopped by something like writer&amp;rsquo;s block. Far from it - I&amp;rsquo;ve been satiated by just the act of setting up this site. I&amp;rsquo;ve been misled into thinking that this site was the goal, not the writing. I threw myself with enthusiasm into setting up the template, creating the github actions that would publish this blog, and adding bells and whistles that would just make this site so much more &amp;lsquo;perfect&amp;rsquo;. Once done, and a few posts in, I lost steam.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The best tools in the world</title>
-      <link>https://algoexpt.github.io/posts/self-help/</link>
+      <link>http://localhost:1313/posts/self-help/</link>
       <pubDate>Thu, 29 Sep 2022 15:16:24 +0900</pubDate>
-      
-      <guid>https://algoexpt.github.io/posts/self-help/</guid>
-      <description>I found myself this morning installing Zettlr, because there are stories of people saying they &amp;ldquo;changed their life around&amp;rdquo; using the zettelkasten method (here&amp;rsquo;s an example). Apparently it&amp;rsquo;s the way to become 20% smarter and win Pulitzers.
-Please don&amp;rsquo;t pay any attention to my cynical tone. It&amp;rsquo;s because I can&amp;rsquo;t get any value from it myself.
-A great hammer in the hands of a master carpenter will save him time and effort and allow him to make better furniture than without it.</description>
+      <guid>http://localhost:1313/posts/self-help/</guid>
+      <description>&lt;p&gt;I found myself this morning installing&#xA;&lt;a href=&#34;https://www.zettlr.com/#&#34;&gt;Zettlr&lt;/a&gt;, because there are stories of people&#xA;saying they &amp;ldquo;changed their life around&amp;rdquo; using the zettelkasten method&#xA;(here&amp;rsquo;s an&#xA;&lt;a href=&#34;https://www.bryanlee.net/blog/the-life-changing-magic-of-zettelkasten&#34;&gt;example&lt;/a&gt;).&#xA;Apparently it&amp;rsquo;s the way to become 20% smarter and win Pulitzers.&lt;/p&gt;&#xA;&lt;p&gt;Please don&amp;rsquo;t pay any attention to my cynical tone. It&amp;rsquo;s because I can&amp;rsquo;t&#xA;get any value from it myself.&lt;/p&gt;&#xA;&lt;p&gt;A great hammer in the hands of a master carpenter will save him&#xA;time and effort and allow him to make better furniture than without it.&#xA;He is understandably excited. &amp;ldquo;This tool&amp;rdquo;, he&#xA;says to anyone who asks, &amp;ldquo;will allow you to make a four poster bed like never before and in&#xA;just 3 days!&amp;rdquo;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Running snapshots - Aug 2022</title>
-      <link>https://algoexpt.github.io/posts/running_shots/</link>
+      <link>http://localhost:1313/posts/running_shots/</link>
       <pubDate>Sat, 06 Aug 2022 12:31:17 +0900</pubDate>
-      
-      <guid>https://algoexpt.github.io/posts/running_shots/</guid>
-      <description>One day in May, I was returning home from work when I saw a poster for the Seoul Marathon 2022. The event had come and gone, and I had been unaware of it.
-Seoul Marathon 2022 I started running some time in June this year. I&amp;rsquo;ve made it a tradition to take a shot of whatever is in front of me when I finish my runs. I don&amp;rsquo;t think any of these shots are &amp;ldquo;special&amp;rdquo; in a visual way.</description>
+      <guid>http://localhost:1313/posts/running_shots/</guid>
+      <description>&lt;p&gt;One day in May, I was returning home from work when I saw a poster for the Seoul Marathon 2022. The event had come and gone, and I had been unaware of it.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;a href=&#34;20220502_171852.jpg&#34; target=&#34;calligraphy-image&#34;&gt;&#xA;      &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/running_shots/20220502_171852_hu_4002ed32c0091bb9.jpg&#34; alt=&#34;Seoul Marathon 2022&#34;&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;figcaption class=&#34;text-small&#34;&gt;Seoul Marathon 2022&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;I started running some time in June this year. I&amp;rsquo;ve made it a tradition to take a shot of whatever is in front of me when I finish my runs. I don&amp;rsquo;t think any of these shots are &amp;ldquo;special&amp;rdquo; in a visual way. But it&amp;rsquo;s fun to take a look anyway and reflect on some of them.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Walking at 11 pm</title>
-      <link>https://algoexpt.github.io/posts/nightwalk/</link>
+      <link>http://localhost:1313/posts/nightwalk/</link>
       <pubDate>Sat, 23 Jul 2022 21:28:43 +0900</pubDate>
-      
-      <guid>https://algoexpt.github.io/posts/nightwalk/</guid>
-      <description>While Seoul knows no sleep, my neighborhood grows quiet at night. There aren&amp;rsquo;t many people out and about. The absence of sounds of traffic enhances the peaceful feeling.
-Going home after a long day at work Seoul is notorious for long work hours. Then the Government announced last year that work hours per week were to be capped at 52 hours per week.
-A quiet cul-de-sac The place I live in has many &amp;ldquo;villas&amp;rdquo;, less expensive alternatives for a high-rise apartments.</description>
+      <guid>http://localhost:1313/posts/nightwalk/</guid>
+      <description>&lt;p&gt;While Seoul knows no sleep, my neighborhood grows quiet at night. There aren&amp;rsquo;t many people out and about. The absence of sounds of traffic enhances the peaceful feeling.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;a href=&#34;20220721_231429_25.jpg&#34; target=&#34;calligraphy-image&#34;&gt;&#xA;      &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/nightwalk/20220721_231429_25_hu_7b36932a07725082.jpg&#34; alt=&#34;Going home after a long day at work&#34;&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;figcaption class=&#34;text-small&#34;&gt;Going home after a long day at work&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Seoul is &lt;a href=&#34;http://www.koreaherald.com/view.php?ud=20210309000162&#34;&gt;notorious&lt;/a&gt; for long work hours. Then the Government announced last year that work hours per week were to be &lt;a href=&#34;https://www.theregister.com/2021/06/24/south_korea_52_hour_working_week/&#34;&gt;capped&lt;/a&gt; at 52 hours per week.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;a href=&#34;20220721_231448.jpg&#34; target=&#34;calligraphy-image&#34;&gt;&#xA;      &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/nightwalk/20220721_231448_hu_c7b4c8aacf64a4fa.jpg&#34; alt=&#34;A quiet cul-de-sac&#34;&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;figcaption class=&#34;text-small&#34;&gt;A quiet cul-de-sac&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Conditional Happiness</title>
-      <link>https://algoexpt.github.io/posts/conditional_happiness/</link>
+      <link>http://localhost:1313/posts/conditional_happiness/</link>
       <pubDate>Sun, 17 Jul 2022 17:28:43 +0900</pubDate>
-      
-      <guid>https://algoexpt.github.io/posts/conditional_happiness/</guid>
-      <description>Swami Sarvapriyananda, my favorite teacher of philosophy, talks about why happiness conditioned on worldly events, possessions or people, is inherently sorrowful and not true happiness.
-The full talk is about 3 mantras in the Katha Upanishad, where Nachiketa, a little boy given by his annoyed father to the Lord of Death, Yamaraja visits him. Yamaraja is not home when Nachiketa visits, so he grants three boons to make up for his lapse.</description>
+      <guid>http://localhost:1313/posts/conditional_happiness/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.vedantany.org/resident-swamis/&#34;&gt;Swami Sarvapriyananda&lt;/a&gt;, my favorite teacher of philosophy, &lt;a href=&#34;https://youtu.be/VJ2g3HSYK6E?t=1288&#34;&gt;talks&lt;/a&gt; about why happiness conditioned on worldly events, possessions or people, is inherently sorrowful and not true happiness.&lt;/p&gt;&#xA;&lt;p&gt;The full talk is about 3 mantras in the &lt;em&gt;Katha Upanishad&lt;/em&gt;, where &lt;em&gt;Nachiketa&lt;/em&gt;, a little boy given by his annoyed father to the Lord of Death, &lt;em&gt;Yamaraja&lt;/em&gt; visits him. Yamaraja is not home when Nachiketa visits, so he grants three boons to make up for his lapse. Nachiketa asks for knowledge of the self - but Yamaraja offers him all the wealth and pleasures that he can imagine instead. Nachiketa refuses.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mass Goodbye Emails</title>
-      <link>https://algoexpt.github.io/posts/massgoodbye/</link>
+      <link>http://localhost:1313/posts/massgoodbye/</link>
       <pubDate>Thu, 07 Jul 2022 01:49:43 +0900</pubDate>
-      
-      <guid>https://algoexpt.github.io/posts/massgoodbye/</guid>
-      <description>This post originally appeared on LinkedIn. I have edited the text for readability
-It&amp;rsquo;s common for employees who are leaving to send out a &amp;ldquo;Thank you and good bye&amp;rdquo; mail enmasse. Usually, this happens at Friday at 5:45 PM as everyone is winding down for the weekend.
-Please don&amp;rsquo;t do this.
-It&amp;rsquo;s a low effort call for attention. You feel on top of the world, your stress has evaporated, and you want to shout out your liberation from the rooftops.</description>
+      <guid>http://localhost:1313/posts/massgoodbye/</guid>
+      <description>&lt;p&gt;&lt;small&gt;&lt;em&gt;This post originally appeared on &lt;a href=&#34;https://www.linkedin.com/posts/ajayarn_its-common-for-employees-who-are-leaving-activity-6950487233229373440-Usxl?utm_source=linkedin_share&amp;amp;utm_medium=member_desktop_web&#34;&gt;LinkedIn&lt;/a&gt;. I have edited the text for readability&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;It&amp;rsquo;s common for employees who are leaving to send out a &amp;ldquo;Thank you and good bye&amp;rdquo; mail enmasse. Usually, this happens at Friday at 5:45 PM as everyone is winding down for the weekend.&lt;/p&gt;&#xA;&lt;p&gt;Please don&amp;rsquo;t do this.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a low effort call for attention. You feel on top of the world, your stress has evaporated, and you want to shout out your liberation from the rooftops. But you&amp;rsquo;re leaving a company that is going to continue to work on making profits. You&amp;rsquo;ll leave, someone else will join, and unless you&amp;rsquo;ve made deep friendships, you&amp;rsquo;ll probably be forgotten. There&amp;rsquo;s a high probability that no one cares.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Wall</title>
-      <link>https://algoexpt.github.io/posts/will/</link>
+      <link>http://localhost:1313/posts/will/</link>
       <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://algoexpt.github.io/posts/will/</guid>
-      <description>Will Smith begins his biography, Will, with the story of his father demolishing a 12x20 feet wall. He asks Will, 11, and his younger brother Harry to rebuild it.
-Will meets this decision with stupefaction:
-I remember looking at that gaping hole in excruciating disbelief. I was utterly certain that there would never be a wall there ever again.
-Will and his brother worked on the wall every day, mixing concrete and carrying the buckets.</description>
+      <guid>http://localhost:1313/posts/will/</guid>
+      <description>&lt;p&gt;Will Smith begins his biography, &lt;em&gt;Will&lt;/em&gt;, with the story of his father demolishing a 12x20 feet wall.  He asks Will, 11, and his younger brother Harry to rebuild it.&lt;/p&gt;&#xA;&lt;p&gt;Will meets this decision with stupefaction:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I remember looking at that gaping hole in excruciating disbelief. I was utterly certain that there would never be a wall there ever again.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Will and his brother worked on the wall every day, mixing concrete and carrying the buckets. They worked weekends, holidays, vacations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cormac McCarthy&#39;s &#34;The Road&#34;</title>
-      <link>https://algoexpt.github.io/posts/the_road/</link>
+      <link>http://localhost:1313/posts/the_road/</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://algoexpt.github.io/posts/the_road/</guid>
-      <description>The Road In &amp;ldquo;The Road&amp;rdquo;, a father and son are making their way towards the sea in a world in which an apocalyptic event has killed most living things.
-It&amp;rsquo;s winter, and it&amp;rsquo;s snowing. Their clothes and shoes are threadbare. They sleep under tarpaulin on the hard ground. During their walk, they manage to find some gasoline, which is useful to build fires, to cook food, to keep warm.</description>
+      <guid>http://localhost:1313/posts/the_road/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&lt;figure&gt;&#xA;    &lt;a href=&#34;the-road-cormac-mccarthy1-1224859981.jpg&#34; target=&#34;calligraphy-image&#34;&gt;&#xA;      &lt;img loading=&#34;lazy&#34; src=&#34;the-road-cormac-mccarthy1-1224859981.jpg&#34; alt=&#34;The Road&#34;&gt;&#xA;    &lt;/a&gt;&#xA;  &lt;figcaption class=&#34;text-small&#34;&gt;The Road&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;In &amp;ldquo;The Road&amp;rdquo;, a father and son are making their way towards the sea in a world in which an apocalyptic event has killed most living things.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s winter, and it&amp;rsquo;s snowing. Their clothes and shoes are threadbare. They sleep under tarpaulin on the hard ground. During their walk, they manage to find some gasoline, which is useful to build fires, to cook food, to keep warm.&lt;/p&gt;&#xA;&lt;p&gt;Then this happens:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Using Evolutionary Algorithms for the CVRP</title>
-      <link>https://algoexpt.github.io/posts/cvrp/cvrp/</link>
+      <link>http://localhost:1313/posts/cvrp/cvrp/</link>
       <pubDate>Wed, 26 May 2021 16:48:33 +0900</pubDate>
-      
-      <guid>https://algoexpt.github.io/posts/cvrp/cvrp/</guid>
-      <description>Context Tweaking the search heuristic based on benchmark data is a necessary evil when building and testing an OR model intended for production. But this approach has a problem: we are able to beat benchmarks but are not able to consistently get acceptable results in production, where the input data can vary for each run. One solution is to train the OR model in more benchmarks, but it is expensive for businesses to create the right benchmarks and to verify results when there&amp;rsquo;s a lot of variation possible in the data, or they are not sure of what variation can potentially happen, or the amount of work that goes into building the benchmark is high.</description>
+      <guid>http://localhost:1313/posts/cvrp/cvrp/</guid>
+      <description>&lt;h2 id=&#34;context&#34;&gt;Context&lt;/h2&gt;&#xA;&lt;p&gt;Tweaking the search heuristic based on benchmark data is a necessary evil when building and testing an OR model intended for production. But this approach has a problem: we are able to beat benchmarks but are not able to consistently get acceptable results in production, where the input data can vary for each run. One solution is to train the OR model in more benchmarks, but it is expensive for businesses to create the right benchmarks and to verify results when there&amp;rsquo;s a lot of variation possible in the data, or they are not sure of what variation can potentially happen, or the amount of work that goes into building the benchmark is high.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Advice for young OR professionals</title>
-      <link>https://algoexpt.github.io/posts/advice_for_or/advice-for-young-or-professionals/</link>
+      <link>http://localhost:1313/posts/advice_for_or/advice-for-young-or-professionals/</link>
       <pubDate>Sat, 15 May 2021 16:48:33 +0900</pubDate>
-      
-      <guid>https://algoexpt.github.io/posts/advice_for_or/advice-for-young-or-professionals/</guid>
-      <description>Introduction I love mentoring young people, but I don’t get many chances to do so. In the last few years, some of my younger colleagues have asked me questions that I’ve not answered well.
-I’ve had some time recently to think about what I would say if I had the opportunity to talk to them again. I’ve written down some of these thoughts. Like most advice, it is unsolicited, so what could be better than to put it out here and let anyone who can get value out of it do so?</description>
+      <guid>http://localhost:1313/posts/advice_for_or/advice-for-young-or-professionals/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I love mentoring young people, but I don’t get many chances to do so. In the last few years, some of my younger colleagues have asked me questions that I’ve not answered well.&lt;/p&gt;&#xA;&lt;p&gt;I’ve had some time recently to think about what I would say if I had the opportunity to talk to them again. I’ve written down some of these thoughts. Like most advice, it is unsolicited, so what could be better than to put it out here and let anyone who can get value out of it do so?&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
