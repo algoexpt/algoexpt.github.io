@@ -8,11 +8,11 @@ tags:
   - life
 ---
 
-I've had a tough time getting started. When I first left our house in September 2024 it was a haze, the relief of a pain subsiding and the feeling of something momentous happening mingling together in the busyness of getting set up for myself. Then came the pain and anger and the realization that with the coming out came the giving up, of my being a father to my daughter.
+It's been 5 months and a bit since I left her. I've had a tough time getting started. When I first left our house in September 2024 it was a haze, the relief of a pain subsiding and the feeling of something momentous happening mingling together in the busyness of getting set up for myself. Then came the pain and anger and the realization that with the coming out came the giving up, of my being a father to my daughter.
 
 ----
 
-It's been 5 months and a bit since I left her. In the beginning it is tough, because perhaps for the first time in my life I experience this thing called "grief". Grief settles like a heavy wet blanket around my shoulders, making it difficult to breathe and work. I get up and walk around and look busy and thoughtful and try to escape somehow but it pulls me in, sucking the ability to think and act. There are meetings to sit in and plans to make, and I come home and smile to my mother and talk to my friend and sleep and it all feels as if I am wearing a raincoat and wading through this life sliding by in a thick ooze. 
+In the beginning it is tough, because perhaps for the first time in my life I experience this thing called "grief". Grief settles like a heavy wet blanket around my shoulders, making it difficult to breathe and work. I get up and walk around and look busy and thoughtful and try to escape somehow but it pulls me in, sucking the ability to think and act. There are meetings to sit in and plans to make, and I come home and smile to my mother and talk to my friend and sleep and it all feels as if I am wearing a raincoat and wading through this life sliding by in a thick ooze. 
 
 The first 3 months, I go through the motions of life. I know I have plans for visiting M in December, and this keeps me going. Work is demanding, but I get things done. People like  things getting done, and they like me for doing so, so it all feels a little bit like I am where I should be. Except in my heart I feel I have done grievous harm to my loved one and I don't know that I can make it right. I think of undoing everything. I message my ex in a desperate attempt - would she consider discussing what went wrong. But our paths have diverged, she makes demands that are non-negotiable and I let things go.
 
