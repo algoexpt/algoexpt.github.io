@@ -32,11 +32,11 @@ enableEmoji = true
 #  url = "/authors/"
 #  weight = 15
 
-[[menu.main]]
- identifier = "series"
- name = "Series"
- url = "/series/"
- weight = 20
+# [[menu.main]]
+#  identifier = "series"
+#  name = "Series"
+#  url = "/series/"
+#  weight = 20
 
 # [[menu.main]]
 #  identifier = "snaps"
@@ -77,12 +77,6 @@ enableEmoji = true
 [module.hugoVersion]
   extended = true
   min = "0.89.0"
-
-[privacy.twitter]
-  enableDNT = true
-
-[privacy.vimeo]
-  enableDNT = true
 
 [privacy.youtube]
   privacyEnhanced = true
