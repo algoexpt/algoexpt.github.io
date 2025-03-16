@@ -5,7 +5,8 @@ draft: false
 description: Empty words to garland an emptiness
 tags:
   - personal
-  - life
+  - family
+series: Letters to Mina
 ---
 
 It's been 5 months and a bit since I left her. When I first left our house in September 2024 it was a haze, the relief of a pain subsiding and the feeling of something momentous happening mingling together in the busyness of getting set up for myself. Then came the pain and anger and the realization that with the coming out came the giving up, of my being a father to my daughter.
