@@ -1,7 +1,7 @@
 ---
 title: In Korea, Again
 date: 2025-05-16T14:53:54+09:00
-draft: true
+draft: false
 description: I want to be here because I want to do the best I can
 series: Letters to Mina
 ---
