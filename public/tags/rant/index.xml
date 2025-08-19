@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rant on Random Walks</title>
-    <link>https://algoexpt.github.io/tags/rant/</link>
+    <link>http://localhost:1313/tags/rant/</link>
     <description>Recent content in Rant on Random Walks</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Copyright © 2025</copyright>
     <lastBuildDate>Mon, 02 Oct 2023 16:18:39 +0900</lastBuildDate>
-    <atom:link href="https://algoexpt.github.io/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rant/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This Exists</title>
-      <link>https://algoexpt.github.io/posts/this_exists/</link>
+      <link>http://localhost:1313/posts/this_exists/</link>
       <pubDate>Mon, 02 Oct 2023 16:18:39 +0900</pubDate>
-      <guid>https://algoexpt.github.io/posts/this_exists/</guid>
+      <guid>http://localhost:1313/posts/this_exists/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve let myself down. One of my goals setting up this site was to be &amp;ldquo;consistent&amp;rdquo; in writing. There is this oft-heard story about a &lt;a href=&#34;https://www.youtube.com/watch?v=jtTdJwy68po&#34;&gt;pottery class&lt;/a&gt; where a group that  made more pots also created better quality pots eventually than the group tasked with just creating the single &amp;ldquo;perfect&amp;rdquo; pot. So, I thought, if I could write bad posts often enough, I could get better at writing.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s not that I&amp;rsquo;ve pursued perfection in writing and been stopped by something like writer&amp;rsquo;s block. Far from it - I&amp;rsquo;ve been satiated by just the act of setting up this site. I&amp;rsquo;ve been misled into thinking that this site was the goal, not the writing. I threw myself with enthusiasm into setting up the template, creating the github actions that would publish this blog, and adding bells and whistles that would just make this site so much more &amp;lsquo;perfect&amp;rsquo;. Once done, and a few posts in, I lost steam.&lt;/p&gt;</description>
     </item>
   </channel>

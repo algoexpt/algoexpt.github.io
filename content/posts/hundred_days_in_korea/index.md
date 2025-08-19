@@ -1,7 +1,7 @@
 ---
 title: Hundred days in Korea
 date: 2025-08-19T10:52:29+09:00
-draft: true
+draft: false
 description: Feeling loss, guilt, but powering on
 tags:
   - family
