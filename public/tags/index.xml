@@ -1,1 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Random Walks</title><link>https://algoexpt.github.io/tags/</link><description>Recent content in Tags on Random Walks</description><generator>Hugo</generator><language>en</language><copyright>Copyright © 2025</copyright><lastBuildDate>Sat, 29 Mar 2025 11:34:08 +0530</lastBuildDate><atom:link href="https://algoexpt.github.io/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Family</title><link>https://algoexpt.github.io/tags/family/</link><pubDate>Sat, 29 Mar 2025 11:34:08 +0530</pubDate><guid>https://algoexpt.github.io/tags/family/</guid><description/></item><item><title>Personal</title><link>https://algoexpt.github.io/tags/personal/</link><pubDate>Sat, 29 Mar 2025 11:34:08 +0530</pubDate><guid>https://algoexpt.github.io/tags/personal/</guid><description/></item><item><title>Philosophy</title><link>https://algoexpt.github.io/tags/philosophy/</link><pubDate>Sun, 08 Oct 2023 11:12:16 +0900</pubDate><guid>https://algoexpt.github.io/tags/philosophy/</guid><description/></item><item><title>Rant</title><link>https://algoexpt.github.io/tags/rant/</link><pubDate>Mon, 02 Oct 2023 16:18:39 +0900</pubDate><guid>https://algoexpt.github.io/tags/rant/</guid><description/></item><item><title>Life</title><link>https://algoexpt.github.io/tags/life/</link><pubDate>Thu, 29 Sep 2022 15:16:24 +0900</pubDate><guid>https://algoexpt.github.io/tags/life/</guid><description/></item><item><title>Photography</title><link>https://algoexpt.github.io/tags/photography/</link><pubDate>Sat, 06 Aug 2022 12:31:17 +0900</pubDate><guid>https://algoexpt.github.io/tags/photography/</guid><description/></item><item><title>Running</title><link>https://algoexpt.github.io/tags/running/</link><pubDate>Sat, 06 Aug 2022 12:31:17 +0900</pubDate><guid>https://algoexpt.github.io/tags/running/</guid><description/></item><item><title>Career</title><link>https://algoexpt.github.io/tags/career/</link><pubDate>Thu, 07 Jul 2022 01:49:43 +0900</pubDate><guid>https://algoexpt.github.io/tags/career/</guid><description/></item><item><title>Books</title><link>https://algoexpt.github.io/tags/books/</link><pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate><guid>https://algoexpt.github.io/tags/books/</guid><description/></item><item><title>OR</title><link>https://algoexpt.github.io/tags/or/</link><pubDate>Wed, 26 May 2021 16:48:33 +0900</pubDate><guid>https://algoexpt.github.io/tags/or/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Random Walks</title>
+    <link>https://algoexpt.github.io/tags/</link>
+    <description>Recent content in Tags on Random Walks</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Sat, 29 Mar 2025 11:34:08 +0530</lastBuildDate>
+    <atom:link href="https://algoexpt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Family</title>
+      <link>https://algoexpt.github.io/tags/family/</link>
+      <pubDate>Sat, 29 Mar 2025 11:34:08 +0530</pubDate>
+      <guid>https://algoexpt.github.io/tags/family/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal</title>
+      <link>https://algoexpt.github.io/tags/personal/</link>
+      <pubDate>Sat, 29 Mar 2025 11:34:08 +0530</pubDate>
+      <guid>https://algoexpt.github.io/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>https://algoexpt.github.io/tags/philosophy/</link>
+      <pubDate>Sun, 08 Oct 2023 11:12:16 +0900</pubDate>
+      <guid>https://algoexpt.github.io/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rant</title>
+      <link>https://algoexpt.github.io/tags/rant/</link>
+      <pubDate>Mon, 02 Oct 2023 16:18:39 +0900</pubDate>
+      <guid>https://algoexpt.github.io/tags/rant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>https://algoexpt.github.io/tags/life/</link>
+      <pubDate>Thu, 29 Sep 2022 15:16:24 +0900</pubDate>
+      <guid>https://algoexpt.github.io/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photography</title>
+      <link>https://algoexpt.github.io/tags/photography/</link>
+      <pubDate>Sat, 06 Aug 2022 12:31:17 +0900</pubDate>
+      <guid>https://algoexpt.github.io/tags/photography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Running</title>
+      <link>https://algoexpt.github.io/tags/running/</link>
+      <pubDate>Sat, 06 Aug 2022 12:31:17 +0900</pubDate>
+      <guid>https://algoexpt.github.io/tags/running/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Career</title>
+      <link>https://algoexpt.github.io/tags/career/</link>
+      <pubDate>Thu, 07 Jul 2022 01:49:43 +0900</pubDate>
+      <guid>https://algoexpt.github.io/tags/career/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Books</title>
+      <link>https://algoexpt.github.io/tags/books/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://algoexpt.github.io/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OR</title>
+      <link>https://algoexpt.github.io/tags/or/</link>
+      <pubDate>Wed, 26 May 2021 16:48:33 +0900</pubDate>
+      <guid>https://algoexpt.github.io/tags/or/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

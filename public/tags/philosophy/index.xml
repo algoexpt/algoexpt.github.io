@@ -1,7 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Philosophy on Random Walks</title><link>https://algoexpt.github.io/tags/philosophy/</link><description>Recent content in Philosophy on Random Walks</description><generator>Hugo</generator><language>en</language><copyright>Copyright © 2025</copyright><lastBuildDate>Sun, 08 Oct 2023 11:12:16 +0900</lastBuildDate><atom:link href="https://algoexpt.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml"/><item><title>Thought for today</title><link>https://algoexpt.github.io/posts/thought_for_today/</link><pubDate>Sun, 08 Oct 2023 11:12:16 +0900</pubDate><guid>https://algoexpt.github.io/posts/thought_for_today/</guid><description>&lt;ul>
-&lt;li>I don&amp;rsquo;t know what it means to be happy.&lt;/li>
-&lt;li>Despite this, I am in the pursuit of happiness.&lt;/li>
-&lt;/ul>
-&lt;p>I&amp;rsquo;m never really certain about what would make me happy, but almost always clear about what makes me unhappy in the moment.&lt;/p>
-&lt;p>As a consequence, I either find myself wishing away the things that make me unhappy, or I use &lt;a href="https://en.wikipedia.org/wiki/Mimetic_theory">Mimetic Desire&lt;/a> - society&amp;rsquo;s definition of success - as a substitute to defining what happiness means to me and pursuing it.&lt;/p></description></item><item><title>Conditional Happiness</title><link>https://algoexpt.github.io/posts/conditional_happiness/</link><pubDate>Sun, 17 Jul 2022 17:28:43 +0900</pubDate><guid>https://algoexpt.github.io/posts/conditional_happiness/</guid><description>&lt;p>&lt;a href="https://www.vedantany.org/resident-swamis/">Swami Sarvapriyananda&lt;/a>, my favorite teacher of philosophy, &lt;a href="https://youtu.be/VJ2g3HSYK6E?t=1288">talks&lt;/a> about why happiness conditioned on worldly events, possessions or people, is inherently sorrowful and not true happiness.&lt;/p>
-&lt;p>The full talk is about 3 mantras in the &lt;em>Katha Upanishad&lt;/em>, where &lt;em>Nachiketa&lt;/em>, a little boy given by his annoyed father to the Lord of Death, &lt;em>Yamaraja&lt;/em> visits him. Yamaraja is not home when Nachiketa visits, so he grants three boons to make up for his lapse. Nachiketa asks for knowledge of the self - but Yamaraja offers him all the wealth and pleasures that he can imagine instead. Nachiketa refuses.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on Random Walks</title>
+    <link>https://algoexpt.github.io/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Random Walks</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2025</copyright>
+    <lastBuildDate>Sun, 08 Oct 2023 11:12:16 +0900</lastBuildDate>
+    <atom:link href="https://algoexpt.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thought for today</title>
+      <link>https://algoexpt.github.io/posts/thought_for_today/</link>
+      <pubDate>Sun, 08 Oct 2023 11:12:16 +0900</pubDate>
+      <guid>https://algoexpt.github.io/posts/thought_for_today/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;I don&amp;rsquo;t know what it means to be happy.&lt;/li&gt;&#xA;&lt;li&gt;Despite this, I am in the pursuit of happiness.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I&amp;rsquo;m never really certain about what would make me happy, but almost always clear about what makes me unhappy in the moment.&lt;/p&gt;&#xA;&lt;p&gt;As a consequence, I either find myself wishing away the things that make me unhappy, or I use &lt;a href=&#34;https://en.wikipedia.org/wiki/Mimetic_theory&#34;&gt;Mimetic Desire&lt;/a&gt; - society&amp;rsquo;s definition of success - as a substitute to defining what happiness means to me and pursuing it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conditional Happiness</title>
+      <link>https://algoexpt.github.io/posts/conditional_happiness/</link>
+      <pubDate>Sun, 17 Jul 2022 17:28:43 +0900</pubDate>
+      <guid>https://algoexpt.github.io/posts/conditional_happiness/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.vedantany.org/resident-swamis/&#34;&gt;Swami Sarvapriyananda&lt;/a&gt;, my favorite teacher of philosophy, &lt;a href=&#34;https://youtu.be/VJ2g3HSYK6E?t=1288&#34;&gt;talks&lt;/a&gt; about why happiness conditioned on worldly events, possessions or people, is inherently sorrowful and not true happiness.&lt;/p&gt;&#xA;&lt;p&gt;The full talk is about 3 mantras in the &lt;em&gt;Katha Upanishad&lt;/em&gt;, where &lt;em&gt;Nachiketa&lt;/em&gt;, a little boy given by his annoyed father to the Lord of Death, &lt;em&gt;Yamaraja&lt;/em&gt; visits him. Yamaraja is not home when Nachiketa visits, so he grants three boons to make up for his lapse. Nachiketa asks for knowledge of the self - but Yamaraja offers him all the wealth and pleasures that he can imagine instead. Nachiketa refuses.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
